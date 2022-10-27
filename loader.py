@@ -35,6 +35,12 @@ trld = json.load(
     )
 )
 
+songs = json.load(
+    urllib.request.urlopen(
+        "https://raw.githubusercontent.com/JohnGrubba/TromboneChampAutomod/main/songs.json"
+    )
+)
+
 dl_url = [i for i in bpnx["assets"] if "x64" in i["name"]][0]["browser_download_url"]
 
 hkey = winreg.OpenKey(winreg.HKEY_LOCAL_MACHINE, "SOFTWARE\WOW6432Node\Valve\Steam")
@@ -66,15 +72,14 @@ print(
     "Then you are ready to download Songs! Just hit enter to get a Small Song Selection to try!"
 )
 input()
-js = json.load(open("songs.json"))
 os.system("cls" if os.name == "nt" else "clear")
 print("Select a Song to Download")
 while True:
     print(
-        "\n".join([str(c) + ": " + i["song_name"] for i, c in zip(js, range(len(js)))])
+        "\n".join([str(c) + ": " + i["song_name"] for i, c in zip(songs, range(len(songs)))])
     )
     indx = int(input("Enter Number of Song: "))
-    song = js[indx]
+    song = songs[indx]
     download_and_unzip(song["dl"], directory + "\BepInEx\CustomSongs")
     os.system("cls" if os.name == "nt" else "clear")
     print("Song Downloaded. Select another one or close this Terminal!")
