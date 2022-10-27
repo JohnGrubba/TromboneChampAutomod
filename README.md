@@ -3,7 +3,7 @@ This is a script, to quickly get Custom Songs into TromboneChamp
 
 ## Usage
 ### Executing Binary
-- Go to Releases and download latest one
+- Go to Releases and download latest .exe file
 ### With Python
 - Completely Dependency Free
 - Run it with Python by using `python3 loader.py`
