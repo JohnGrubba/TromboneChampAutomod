@@ -1,25 +1,39 @@
-import requests
+import urllib.request
 import winreg
 from io import BytesIO
 from zipfile import ZipFile
 import json
 import os
 
+hdr = {
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.3",
+    "Accept-Encoding": "none",
+    "Accept-Language": "en-US,en;q=0.8",
+    "Connection": "keep-alive",
+}
+
 
 def download_and_unzip(url, extract_to):
-    http_response = requests.get(url).content
-    zipfile = ZipFile(BytesIO(http_response))
+    rqst = urllib.request.Request(url=url, headers=hdr)
+    http_response = urllib.request.urlopen(rqst)
+    zipfile = ZipFile(BytesIO(http_response.read()))
     zipfile.extractall(path=extract_to)
 
 
 print("Fetching Latest Data...")
 # Fetch latest data for BepInEx
-bpnx = requests.get(
-    "https://api.github.com/repos/BepInEx/BepInEx/releases/latest"
-).json()
-trld = requests.get(
-    "https://api.github.com/repos/NyxTheShield/TrombLoader/releases/latest"
-).json()
+bpnx = json.load(
+    urllib.request.urlopen(
+        "https://api.github.com/repos/BepInEx/BepInEx/releases/latest"
+    )
+)
+trld = json.load(
+    urllib.request.urlopen(
+        "https://api.github.com/repos/NyxTheShield/TrombLoader/releases/latest"
+    )
+)
 
 dl_url = [i for i in bpnx["assets"] if "x64" in i["name"]][0]["browser_download_url"]
 
@@ -37,7 +51,7 @@ input()
 print("Downloading TrombLoader...")
 # Install Tromb Loader
 
-trlds = requests.get(trld["assets"][0]["browser_download_url"]).content
+trlds = urllib.request.urlopen(trld["assets"][0]["browser_download_url"]).read()
 while True:
     try:
         open(directory + "\BepInEx\plugins\TrombLoader.dll", "wb").write(trlds)
