@@ -1,5 +1,6 @@
 # TromboneChampAutomod
 This is a script, to quickly get Custom Songs into TromboneChamp
+Still in Developement / Not all Songs will work
 
 ## Usage
 ### Executing Binary
