@@ -1,9 +1,20 @@
 [
     {
         "song_name": "Megalovania",
-        "Song Artist": "Toby Fox / NyxTheShield",
-        "Creator": "NyxTheShield",
+        "song_artist": "Toby Fox / NyxTheShield",
+        "creator": "NyxTheShield",
         "dl": "https://cdn.discordapp.com/attachments/1035282998943297647/1035503563465564230/megalovania.zip",
-        "Kept up to date by: TheGlitched64": "Still to add: Genre tab/search"
+    },
+    {
+        "song_name": "Spooky Scary Skeletons",
+        "song_artist": "Andrew Gold",
+        "creator": "Chromaticspace",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1029911309086638120/SpookySkeletons.zip"
+    },
+    {
+        "song_name": "We Are Number One",
+        "song_artist": "Máni Svavarsson",
+        "creator": "PumpkinSpiceAllYearPlsThank",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030272398295060540/WeAreNumberOne.zip"
     }
 ]
