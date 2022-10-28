@@ -6,10 +6,346 @@
         "dl": "https://cdn.discordapp.com/attachments/1035282998943297647/1035503563465564230/megalovania.zip"
     },
     {
+        "song_name": "DRAGONLADY",
+        "song_artist": "Nankumo",
+        "creator": "Ryuto Setsujin",
+        "stars": "8",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1024529920640167937/dragonlady.7z"
+    },
+    {
+        "song_name": "First Toot",
+        "creator": "MooX",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1024556995631661066/First_Toot.zip"
+    },
+    {
+        "song_name": "Never B Mine",
+        "song_artist": "DeBisco",
+        "creator": "WORLDWIDEWOLF (Arne)",
+        "stars": "6",
+        "bpm": "136",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1024673864162234398/neverbmine.7z"
+    },
+    {
+        "song_name": "Little Birdwatcher, The",
+        "song_artist": "tv room",
+        "creator": "WORLDWIDEWOLF (Arne)",
+        "stars": "4",
+        "bpm": "144",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1025051941413339177/thelittlebirdwatcher.7z"
+    },
+    {
+        "song_name": "Sepulchre Theme",
+        "song_artist": "Publio Delgado",
+        "creator": "Broargr Grabrograbr",
+        "stars": "8",
+        "bpm": "115",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1025181337046495242/sepulchre.7z"
+    },
+    {
+        "song_name": "Power Down",
+        "song_artist": "Christopher Bill",
+        "creator": "ClassicTrombone",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1025186260463144960/Power_Down.7z"
+    },
+    {
+        "song_name": "Tetris Theme",
+        "song_artist": "Hirokazu Tanaka",
+        "creator": "Arganalth",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1025555296359292928/tetris.zip"
+    },
+    {
+        "song_name": "Giant Steps",
+        "song_artist": "John Coltrane",
+        "creator": "Nurbbles",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1025630456550527042/GiantSteps.zip"
+    },
+    {
+        "song_name": "Dragula",
+        "song_artist": "Rob Zombie",
+        "creator": "Kamoh",
+        "stars": "4",
+        "bpm": "125",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1025644423553503273/dragula.zip"
+    },
+    {
+        "song_name": "Pink Dinosaur",
+        "song_artist": "Papaya",
+        "creator": "Freya",
+        "stars": "6",
+        "bpm": "136",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1026073103517888542/pink_dinosaur.zip"
+    },
+    {
+        "song_name": "Rainbow Tylenol",
+        "song_artist": "Kitsune^2",
+        "creator": "TDash",
+        "stars": "10",
+        "bpm": "135",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1026192024594026577/Rainbow_Tylenol.zip"
+    },
+    {
+        "song_name": "Rockefeller Street",
+        "song_artist": "Getter Jaani",
+        "creator": "Apple",
+        "stars": "7",
+        "bpm": "162",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1026253825415331880/Rockefeller.zip"
+    },
+    {
+        "song_name": "Bonetrousle (TC Remix)",
+        "song_artist": "Toby Fox / NyxTheShield",
+        "creator": "NyxTheShield",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1026293095479906314/Bonetrousle_Trombone_Champ_Remix_by_NyxTheShield.zip"
+    },
+    {
+        "song_name": "Oppressed, The",
+        "song_artist": "Nobuo Uematsu",
+        "creator": "Final Fantasy VII Enjoyer",
+        "stars": "3",
+        "bpm": "67",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1026505062287159306/the-oppressed.zip"
+    },
+    {
+        "song_name": "Kill, The",
+        "song_artist": "30 Seconds To Mars",
+        "creator": "Mimic",
+        "stars": "6",
+        "bpm": "120",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1026517145699500113/TheKill.7z"
+    },
+    {
+        "song_name": "Five Nights At Freddy's",
+        "song_artist": "The Living Tombstone",
+        "creator": "Mimic",
+        "stars": "9",
+        "bpm": "103",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1026707515343372328/FNAF.zip"
+    },
+    {
+        "song_name": "Hilltop Chase",
+        "song_artist": "Jun Ishikawa",
+        "creator": "Floppo",
+        "stars": "9",
+        "bpm": "180",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1026731886636191744/Hilltop_Chase_Gourmet_Race_2.zip"
+    },
+    {
+        "song_name": "Watch Dog",
+        "song_artist": "Al Terry",
+        "creator": "Kamoh",
+        "stars": "6",
+        "bpm": "158",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1027033301870977024/watchdog.zip"
+    },
+    {
+        "song_name": "Universal Collapse",
+        "song_artist": "DM Dokuro",
+        "creator": "Skske",
+        "stars": "7",
+        "bpm": "100",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1027123778175651840/Trombone_Champ_Universal_Collapse.zip"
+    },
+    {
+        "song_name": "Sea Shanty 2",
+        "song_artist": "Ian Taylor",
+        "creator": "Blorkinator_",
+        "stars": "8",
+        "bpm": "200",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1027310976598548600/SeaShanty2.zip"
+    },
+    {
+        "song_name": "Night Boat To Cairo",
+        "song_artist": "Madness",
+        "creator": "Wulf",
+        "stars": "7",
+        "bpm": "157",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1027381447071379466/nightboat.zip"
+    },
+    {
+        "song_name": "Night of Nights",
+        "song_artist": "BeatMARIO",
+        "creator": "Freya",
+        "stars": "10",
+        "bpm": "180",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1027442851048599552/night_of_knights.zip"
+    },
+    {
+        "song_name": "Mr Majestic",
+        "song_artist": "Calibre & High Contrast",
+        "creator": "WORLDWIDEWOLF (Arne)",
+        "stars": "4",
+        "bpm": "173",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1027671822885457970/mrmajestic.zip"
+    },
+    {
+        "song_name": "Dracula's Castle",
+        "song_artist": "Michiru Yamane",
+        "creator": "MegaGoat",
+        "stars": "5",
+        "bpm": "136",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1027765970414092369/dracula_castle.zip"
+    },
+    {
+        "song_name": "Destiny",
+        "song_artist": "Michael Salvatori",
+        "creator": "TStorm/LegendaryEli",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1027850374515785788/trombonechamp_ROI.zip"
+    },
+    {
+        "song_name": "Wish I Could Care Less",
+        "song_artist": "Fizzd + Yeo",
+        "creator": "DPS2004",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1028531545625083924/careless.zip"
+    },
+    {
+        "song_name": "Beautiful Beautiful",
+        "song_artist": "ONF",
+        "creator": "Phoenixillian",
+        "bpm": "125",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1028573659419398204/beautifulbeautiful.zip"
+    },
+    {
+        "song_name": "Through The Fire & Flames",
+        "song_artist": "DragonForce",
+        "creator": "DerpyChap",
+        "stars": "10",
+        "bpm": "200",
+        "dl": "https://drive.google.com/file/d/1NoLK5EvAzeHHGPeFJhG1SURBWraYi4SU/view?usp=sharing"
+    },
+    {
+        "song_name": "Good Morning USA",
+        "song_artist": "Walter Murphy",
+        "creator": "Megaminerzero",
+        "stars": "5",
+        "bpm": "150",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1028807471214628884/AmericanDad.zip"
+    },
+    {
+        "song_name": "Pokemon Theme Song (TV)",
+        "song_artist": "John Siegler",
+        "creator": "Danja",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1028880404398231563/pokemonTheme.zip"
+    },
+    {
+        "song_name": "Careless Whisper",
+        "song_artist": "George Michael",
+        "creator": "3xp0",
+        "stars": "7",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1028886330291273749/carelesswhisper.zip"
+    },
+    {
+        "song_name": "His Highness' Theme",
+        "song_artist": "Shogo Sakai",
+        "creator": "Henry Zhou's Textbook",
+        "stars": "5",
+        "bpm": "137",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1029006417375535114/His_Highness_Theme.zip"
+    },
+    {
+        "song_name": "Snake Eater Theme",
+        "song_artist": "Norihiko Hibino / Cynthia Harrell",
+        "creator": "aRVin",
+        "bpm": "90",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1029047142603575358/Snake_Eater.zip"
+    },
+    {
+        "song_name": "BREADY STEADY GO",
+        "song_artist": "Pedro Silva",
+        "creator": "MegaGoat",
+        "bpm": "160",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1029149530282795039/bready_steady_go.zip"
+    },
+    {
+        "song_name": "I've Seen Footage",
+        "song_artist": "Death Grips",
+        "creator": "3xp0",
+        "stars": "5",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1029185375056441486/iveseenfootage.zip"
+    },
+    {
+        "song_name": "Toontown Main Theme",
+        "song_artist": "Jamie Christopherson",
+        "creator": "Henry Zhou's Textbook",
+        "stars": "6",
+        "bpm": "156",
+        "dl": "https://cdn.discordapp.com/attachments/543538395045953540/1029206875692081243/toontown.zip"
+    },
+    {
+        "song_name": "Spear Of Justice",
+        "song_artist": "Toby Fox / NyxTheShield",
+        "creator": "NyxTheShield",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1029285546830340106/Spear_of_Justice_Trombone_Champ_Remix_by_NyxTheShield.zip"
+    },
+    {
+        "song_name": "Bloody Stream",
+        "song_artist": "Coda",
+        "creator": "Megaminerzero",
+        "stars": "7",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1029357279880941578/BloodyStream.zip"
+    },
+    {
+        "song_name": "Trampoline",
+        "song_artist": "Kero Kero Bonito",
+        "creator": "aRVin",
+        "stars": "7",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1029443237313777734/Trampoline.zip"
+    },
+    {
+        "song_name": "OHMYGOD",
+        "song_artist": "Eichlers",
+        "creator": "Beric",
+        "stars": "5",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1029566994720235664/Eichlers_-_OHMYGOD.zip"
+    },
+    {
+        "song_name": "BRODYQUEST",
+        "song_artist": "Neil Cicierega",
+        "creator": "aRVin",
+        "stars": "9",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1029635224923025418/BRODYQUEST.zip"
+    },
+    {
+        "song_name": "Hasta La Vista",
+        "song_artist": "Klaus Wunderlich",
+        "creator": "RubenBML",
+        "stars": "5",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1029641077902278676/HastaLaVista.zip"
+    },
+    {
+        "song_name": "Paradise Warfare",
+        "song_artist": "Carpenter Brut",
+        "creator": "Deinonychus",
+        "Length": "4:15",
+        "stars": "6",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1029736532690600036/paradise_warfare.zip"
+    },
+    {
+        "song_name": "My Heart Will Go On",
+        "song_artist": "Celine Dion",
+        "creator": "Esteban",
+        "stars": "4",
+        "dl": "https://cdn.discordapp.com/attachments/1030277764584063056/1030537782466191430/myheartwillgoon.zip"
+    },
+    {
+        "song_name": "Ballad Of Woodsy Owl, The",
+        "song_artist": "kitsch club",
+        "creator": "Slaw",
+        "stars": "5",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1029854763849891932/WoodsyOwl.zip"
+    },
+    {
         "song_name": "Spooky Scary Skeletons",
         "song_artist": "Andrew Gold",
         "creator": "Chromaticspace",
+        "stars": "3",
         "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1029911309086638120/SpookySkeletons.zip"
+    },
+    {
+        "song_name": "Concerning Hobbits",
+        "song_artist": "Howard Shore",
+        "creator": "aRVin",
+        "stars": "4",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1029965537607962644/Concerning_Hobbits.zip"
     },
     {
         "song_name": "We Are Number One",
@@ -18,10 +354,199 @@
         "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030272398295060540/WeAreNumberOne.zip"
     },
     {
+        "song_name": "Office Theme, The",
+        "song_artist": "Jay Ferguson",
+        "creator": "April",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030017038372044830/DwightsChallenge.zip"
+    },
+    {
+        "song_name": "Wallace And Gromit Theme",
+        "song_artist": "Julian Nott",
+        "creator": "Frolicols",
+        "stars": "6",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030132431723954186/Wallace_and_Gromit.zip"
+    },
+    {
+        "song_name": "One Winged Angel",
+        "song_artist": "Nobuo Uematsu",
+        "creator": "Henry Zhou's Textbook",
+        "stars": "9",
+        "bpm": "123",
+        "dl": "https://drive.google.com/file/d/1n2gu_C85yhU-DZhMO8EHUNoKpdKspFvi/view?usp=sharing"
+    },
+    {
+        "song_name": "Inspector Gadget Theme",
+        "song_artist": "Shuki Levy",
+        "creator": "Frolicols",
+        "stars": "8",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030190131543556167/Inspector_Gadget.zip"
+    },
+    {
+        "song_name": "Hyadain no Kakakata Kataomoi-C (Nichijou OP 1)",
+        "song_artist": "Kenichi Maeyamada",
+        "creator": "Megaminerzero",
+        "stars": "9",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030226631412949102/NichijouOP1.zip"
+    },
+    {
+        "song_name": "Reality Check Through The Skull",
+        "song_artist": "DM Dokuro",
+        "creator": "SanicStudios",
+        "stars": "10",
+        "dl": "https://drive.google.com/file/d/12fBaqrSrLQ8GpKKDzC-72FiJ3td0P-Vz/view?usp=sharing"
+    },
+    {
+        "song_name": "Kiss From A Rose",
+        "song_artist": "Seal",
+        "creator": "Frolicols",
+        "stars": "6",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030261053721944064/Seal_KFAR.zip"
+    },
+    {
+        "song_name": "Mixed Nuts",
+        "song_artist": "Official HIGE DANdism",
+        "creator": "VorgunTheBeta",
+        "stars": "7",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030307610345357352/nut.zip"
+    },
+    {
+        "song_name": "Nyanyanyanyanyanyan!",
+        "song_artist": "daniwellP",
+        "creator": "Foxeru",
+        "stars": "10",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030346130011197500/nyancat.zip"
+    },
+    {
+        "song_name": "Oshama Scramble!",
+        "song_artist": "t+pazolite",
+        "creator": "Coryn",
+        "stars": "10",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030347675918422027/oshama_scramble.7z"
+    },
+    {
+        "song_name": "Friday Night (Yakuza)",
+        "song_artist": "Kensuke Inage",
+        "creator": "Cygnus",
+        "stars": "6",
+        "bpm": "126",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030366960476758016/fridaynight.zip"
+    },
+    {
+        "song_name": "Parks and Recreation Theme",
+        "song_artist": "Gaby Moreno & Vincent Jones",
+        "creator": "Frolicols",
+        "stars": "6",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030444046650449970/Parks_and_Rec.zip"
+    },
+    {
+        "song_name": "Buddy Holly",
+        "song_artist": "Weezer",
+        "creator": "SanicStudios",
+        "stars": "6",
+        "dl": "https://drive.google.com/file/d/1JGGgQBWrXHDFy5mMBMCsIPEu_cAZLmgu/view?usp=sharing"
+    },
+    {
+        "song_name": "GTA San Andreas Theme",
+        "song_artist": "Michael Hunter",
+        "creator": "Ilia",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030486922910502942/sanandreas.zip"
+    },
+    {
+        "song_name": "Traverse Town",
+        "song_artist": "Yoko Shimomura",
+        "creator": "Henry Zhou's Textbook",
+        "stars": "3",
+        "bpm": "112",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030515246915391508/TraverseTown.zip"
+    },
+    {
+        "song_name": "Để Quên",
+        "song_artist": "Ngọt",
+        "creator": "Satoru",
+        "stars": "5",
+        "dl": "https://drive.google.com/file/d/1eCRgRSKYpsQyEbYyegChaiI4BG8SFGk8/view?usp=sharing"
+    },
+    {
         "song_name": "Mii Channel Theme",
         "song_artist": "Kazumi Totaka",
         "creator": "Chromaticspace",
+        "stars": "5",
         "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030552044353884211/mii.zip"
+    },
+    {
+        "song_name": "Crazy Little Love",
+        "song_artist": "Nuage",
+        "creator": "WORLDWIDEWOLF (Arne)",
+        "stars": "6",
+        "bpm": "153",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030570692221087944/crazylittlelove.zip"
+    },
+    {
+        "song_name": "Royal Guard March",
+        "song_artist": "Bhumibol Adulyadej",
+        "creator": "NaiKai",
+        "stars": "8",
+        "dl": "https://www.dropbox.com/s/civwkm1ae2s06jn/royalguardmarch.zip?dl=0"
+    },
+    {
+        "song_name": "Senbonzakura",
+        "song_artist": "Kurousa-P / Hatsune Miku",
+        "creator": "April",
+        "stars": "7",
+        "bpm": "154",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030582925307158608/senbonzakura.zip"
+    },
+    {
+        "song_name": "Gourmet Race",
+        "song_artist": "Hirokazu Ando",
+        "creator": "Coryn",
+        "stars": "10",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030589233116753980/gourmet_race.zip"
+    },
+    {
+        "song_name": "Tank!",
+        "song_artist": "Seatbelts",
+        "creator": "Lordmau5",
+        "stars": "8",
+        "bpm": "140",
+        "dl": "https://drive.google.com/file/d/1t9mjdnJlyawoz9YpYFs6JT49K00Ns8uk/view?usp=sharing"
+    },
+    {
+        "song_name": "Clickbait",
+        "song_artist": "Toru Minegishi",
+        "creator": "Tidiestflyer",
+        "stars": "7",
+        "bpm": "180",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030627504647577601/clickbait.zip"
+    },
+    {
+        "song_name": "Sora-V Cosmic Bird",
+        "song_artist": "Torine",
+        "creator": "KnightC0re",
+        "stars": "8",
+        "bpm": "135",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030644477842444358/sorav.zip"
+    },
+    {
+        "song_name": "21st Century Schizoid Man",
+        "song_artist": "King Crimson",
+        "creator": "aRVin",
+        "stars": "10",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030687164163440690/21st_Century_Schizoid_Man.zip"
+    },
+    {
+        "song_name": "Spider Dance",
+        "song_artist": "Toby Fox",
+        "creator": "Megajigglypuff714",
+        "stars": "10",
+        "dl": "https://cdn.discordapp.com/attachments/1030694287056322610/1030885110448398476/Undertale-SpiderDance.zip"
+    },
+    {
+        "song_name": "Friday Night",
+        "song_artist": "Tim Robinson",
+        "creator": "Kainxjm",
+        "stars": "4",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030707669889187840/FridayNight.zip"
     },
     {
         "song_name": "Wii Sports Theme",
@@ -30,69 +555,2459 @@
         "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030724053293600888/wiisports.zip"
     },
     {
-        "song_name": "Kahoot Theme Song",
-        "song_artist": "Alf Inge Wang",
-        "creator": "Kainxjm",
-        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031293456364077177/Kahoot.zip"
+        "song_name": "Let's Watch The Show",
+        "song_artist": "Jake Kaufman",
+        "creator": "Illdie",
+        "dl": "https://drive.google.com/file/d/1SWIFRd358N9yCvGfBpvmoLfIBCWAcu52/view?usp=sharing"
     },
     {
-        "song_name": "Slider (SM64)",
-        "song_artist": "Koji Kondo",
-        "creator": "Bhc",
-        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031315893789139054/Slider.zip"
+        "song_name": "Sprite Cranberry (I Miss You)",
+        "song_artist": "Bryan Cranston Crayon Box",
+        "creator": "Beric",
+        "stars": "5",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030829634624962651/Sprite_Cranberry.zip"
+    },
+    {
+        "song_name": "Roar Of The Jungle Dragon",
+        "song_artist": "DM Dokuro",
+        "creator": "Foxeru",
+        "stars": "6",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030883659508629606/roarofthejungledragon.zip"
+    },
+    {
+        "song_name": "Bubblegum K.K.",
+        "song_artist": "      Kazumi Totaka",
+        "creator": "DrewNG",
+        "stars": "6",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030888457649799288/bubblegumkk.zip"
+    },
+    {
+        "song_name": "Be Nice 2 Me",
+        "song_artist": "Bladee",
+        "creator": "Oatmealy",
+        "stars": "6",
+        "dl": "https://www.mediafire.com/file/emftvm5zoijtqjr/BeNice2Me.zip/file"
+    },
+    {
+        "song_name": "Grains Of Sand",
+        "song_artist": "Andrew Huang",
+        "creator": "Oatmealy",
+        "stars": "10",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030992601983225906/GrainsOfSand.zip"
+    },
+    {
+        "song_name": "The Owl House Theme Song",
+        "song_artist": "Dana Terrace",
+        "creator": "ITGuy042",
+        "stars": "5",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031003934078287923/The_Owl_House_Theme_Song.zip"
+    },
+    {
+        "song_name": "Genryuu Kaiko",
+        "song_artist": "Halozy",
+        "creator": "Graffin",
+        "stars": "6",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031031052707315793/genryuukaiko.rar"
+    },
+    {
+        "song_name": "Hero Mode Crater 1",
+        "song_artist": "Toru Minegishi",
+        "creator": "Tidiestflyer",
+        "stars": "6",
+        "bpm": "155",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031043694830293032/HMC1.zip"
+    },
+    {
+        "song_name": "I Will Always Love You",
+        "song_artist": "Whitney Houston",
+        "creator": "aRVin",
+        "stars": "6",
+        "bpm": "136",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031057516769062933/I_WIll_Always_Love_You.zip"
+    },
+    {
+        "song_name": "Inkwell Isle One",
+        "song_artist": "Kristopher Maddigan",
+        "creator": "DrewNG",
+        "stars": "9",
+        "bpm": "80",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031079935089057833/inkwellisleone.zip"
+    },
+    {
+        "song_name": "It's Been So Long",
+        "song_artist": "The Living Tombstone",
+        "creator": "April",
+        "stars": "6",
+        "bpm": "96",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031127468855279676/itsbeensolong.zip"
+    },
+    {
+        "song_name": "Hopes and Dreams",
+        "song_artist": "Toby Fox",
+        "creator": "Coryn",
+        "stars": "8",
+        "bpm": "180",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031148476307877958/hopes_and_dreams.zip"
+    },
+    {
+        "song_name": "Highway",
+        "song_artist": "Midnight Grand Orchestra",
+        "creator": "Oppen_heimer",
+        "stars": "6",
+        "bpm": "125",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031153439130001429/HighwayMGO.zip"
+    },
+    {
+        "song_name": "Song of The Wielders",
+        "song_artist": "Lena Raine",
+        "creator": "Henry Zhou's Textbook",
+        "stars": "4",
+        "bpm": "120",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031169842969067560/SongOfTheWielders.zip"
+    },
+    {
+        "song_name": "Meikaruza",
+        "song_artist": "Nanahoshi Kangengakudan",
+        "creator": "KnightC0re",
+        "stars": "10",
+        "bpm": "300",
+        "dl": "https://www.mediafire.com/file/4b2m7pj2eh5mce1/meikaruza.zip/file"
+    },
+    {
+        "song_name": "At Dooms Gate",
+        "song_artist": "Bobby Prince",
+        "creator": "Oatmealy",
+        "stars": "9",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031174692553371720/AtDoomsGate.zip"
+    },
+    {
+        "song_name": "Cbat",
+        "song_artist": "Hudson Mohawke",
+        "creator": "Gloomhonk",
+        "stars": "7",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031186149508665344/Cbat.zip"
+    },
+    {
+        "song_name": "Ievan Polkka (Leekspin)",
+        "song_artist": "Loituma",
+        "creator": "Whybird",
+        "stars": "6",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031200722261381120/leekspin.zip"
+    },
+    {
+        "song_name": "Universal Dance",
+        "song_artist": "Laugh & Peace",
+        "creator": "Atlas Fox",
+        "stars": "7",
+        "dl": "https://drive.google.com/file/d/1BRH82TE-x0nOiKIIFPUlxygEESTH4QSv/view?usp=sharing"
+    },
+    {
+        "song_name": "Wii Shop Channel",
+        "song_artist": "Kazumi Totaka",
+        "creator": "Gloomhonk",
+        "stars": "5",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031211709332987934/WiiShop.zip"
+    },
+    {
+        "song_name": "Streetpass Mii Plaza",
+        "creator": "Beric",
+        "stars": "6",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031221721337970789/Streetpass_Mii_Plaza.zip"
+    },
+    {
+        "song_name": "Time Is A Place",
+        "song_artist": "Kan Gao",
+        "creator": "Séance",
+        "stars": "4",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031228850811703336/timeisaplace.zip"
     },
     {
         "song_name": "Sweden",
         "song_artist": "C418",
         "creator": "aRVin",
+        "stars": "4",
+        "bpm": "88",
         "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031281923382845471/Sweden.zip"
     },
     {
-        "song_name": "Baka Mitai (Karaoke)",
-        "song_artist": "Mitsuharu Fukuyama",
-        "creator": "VorgunTheBeta",
-        "dl": "https://cdn.discordapp.com/attachments/1031388156370620486/1032452281729298502/BakaMitai.zip"
+        "song_name": "Ram Ranch",
+        "song_artist": "Grant MacDonald",
+        "creator": "Oatmealy",
+        "stars": "7",
+        "bpm": "85",
+        "dl": "https://www.mediafire.com/file/yzczabq1i19c8ui"
+    },
+    {
+        "song_name": "Freedom Dive",
+        "song_artist": "xi",
+        "creator": "DoritoTheChips",
+        "stars": "10",
+        "bpm": "222",
+        "dl": "https://www.mediafire.com/file/8ezofw9tklvxcqv/freedom-dive.zip/file"
+    },
+    {
+        "song_name": "Kahoot Theme Song",
+        "song_artist": "Alf Inge Wang",
+        "creator": "Kainxjm",
+        "stars": "4",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031293456364077177/Kahoot.zip"
+    },
+    {
+        "song_name": "A Long Fall (FFXIV Shadowbringers)",
+        "song_artist": "Masayoshi Soken",
+        "creator": "Renshi Hyatsuki",
+        "stars": "6",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031298778587734087/ALongFall.rar"
+    },
+    {
+        "song_name": "Slider (SM64)",
+        "song_artist": "Koji Kondo",
+        "creator": "Bhc",
+        "stars": "9",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031315893789139054/Slider.zip"
+    },
+    {
+        "song_name": "Final Duet",
+        "song_artist": "Pedro Silva",
+        "creator": "Ernad",
+        "stars": "5",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031317840810217472/Duet.zip"
+    },
+    {
+        "song_name": "Snow Halation",
+        "song_artist": "u's",
+        "creator": "RShields",
+        "stars": "9",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031318826991763506/snowhalation.zip"
+    },
+    {
+        "song_name": "Civilizations (FFXIV)",
+        "song_artist": "Masayoshi Soken",
+        "creator": "Gloomhonk",
+        "stars": "8",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031321213814964257/Civilizations.zip"
+    },
+    {
+        "song_name": "3-Way (The Golden Rule)",
+        "song_artist": "The Lonely Island",
+        "creator": "Karif_Wins",
+        "stars": "8",
+        "bpm": "180",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031323883153936454/The_Lonely_Island_-_3-Way.zip"
+    },
+    {
+        "song_name": "Thomas The Tank Engine Theme",
+        "song_artist": "Mike O'Donnell / Junior ",
+        "creator": "Frolicols",
+        "stars": "4",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031328256814743552/Thomas_Tank.zip"
+    },
+    {
+        "song_name": "Fight To The Finish (PMD2)",
+        "song_artist": "Arata Iyoshi",
+        "creator": "Dakar665",
+        "stars": "9",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031332055642017882/Fight_to_the_finish.zip"
+    },
+    {
+        "song_name": "Bill Nye The Science Guy Theme",
+        "song_artist": "Mike Greene",
+        "creator": "Plushel",
+        "stars": "5",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031339824994582598/billnye.zip"
+    },
+    {
+        "song_name": "Superman",
+        "song_artist": "Goldfinger",
+        "creator": "Goodfrenchfries",
+        "stars": "6",
+        "dl": "https://drive.google.com/file/d/1oZTZJSE87CL3gOoSNkAQh73UFxez3iln/view?usp=sharing"
+    },
+    {
+        "song_name": "Seinfeld Theme",
+        "song_artist": "Jonathan Wolff",
+        "creator": "DrewNG",
+        "stars": "6",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031351367413006426/seinfeldtheme.zip"
+    },
+    {
+        "song_name": "Meggyújtom a Pipám",
+        "song_artist": "Besh o droM",
+        "creator": "Deinonychus",
+        "Length": "3:50",
+        "stars": "9",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031352852645425152/besh_o_drom.zip"
+    },
+    {
+        "song_name": "Brute Justice Mode (The Primals)",
+        "song_artist": "The Primals",
+        "creator": "Renshi Hyatsuki",
+        "stars": "8",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031364189752672276/BruteJusticePrimals.rar"
     },
     {
         "song_name": "Better Call Saul Main Theme",
         "song_artist": "Little Barrie",
         "creator": "Atlas Fox",
-        "dl": "https://cdn.discordapp.com/attachments/1035282998943297647/1035514163021230130/bettercallsnaul.zip"
+        "stars": "8",
+        "dl": "https://drive.google.com/file/d/1n1FW36VDNtVBmH9GmKd6vj08vDHnQ0y-/view?usp=sharing"
     },
     {
-        "song_name": "Coconut Mall (Mario Kart Wii)",
-        "song_artist": "Asuka Ota/Ryo Nagamatsu",
-        "creator": "Eski",
-        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032448519291809792/COCONUTMALLMID.zip"
+        "song_name": "He-Man Sings: Fabulous Secret Powers",
+        "song_artist": "Slack Circus",
+        "creator": "Esteban",
+        "stars": "8",
+        "dl": "https://cdn.discordapp.com/attachments/1031372053393199215/1031377312291225700/fabuloussecretpowers.zip"
+    },
+    {
+        "song_name": "Baka Mitai (Karaoke)",
+        "song_artist": "Mitsuharu Fukuyama",
+        "creator": "VorgunTheBeta",
+        "stars": "5",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031388156760698941/BakaMitai.zip"
+    },
+    {
+        "song_name": "Misery Business",
+        "song_artist": "Paramore",
+        "creator": "aRVin",
+        "stars": "9",
+        "bpm": "173",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031391263506841690/Misery_Business.zip"
+    },
+    {
+        "song_name": "Battle Against A True Hero",
+        "song_artist": "Toby Fox",
+        "creator": "Baby_Boy",
+        "stars": "10",
+        "bpm": "150",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031404245141946508/Battle_Against_A_True_Hero.zip"
+    },
+    {
+        "song_name": "Battle! (Brendan/May)",
+        "song_artist": "Junichi Masuda",
+        "creator": "Coryn",
+        "stars": "7",
+        "bpm": "195",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031461854968549376/rival_battle_rse.zip"
+    },
+    {
+        "song_name": "20th Century Fox Theme",
+        "song_artist": "Alfred Newman",
+        "creator": "Gloomhonk",
+        "stars": "7",
+        "bpm": "115",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031492816683155507/20thCenturyFox.zip"
+    },
+    {
+        "song_name": "Treasure Town",
+        "song_artist": "A. Iiyoshi, et al.",
+        "creator": "Coryn",
+        "stars": "6",
+        "bpm": "172",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031504126930067496/treasure_town.zip"
+    },
+    {
+        "song_name": "MacGyver Theme",
+        "song_artist": "Randy Edelman",
+        "creator": "Frolicols",
+        "stars": "7",
+        "bpm": "153",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031527508182581298/MacGyver.zip"
+    },
+    {
+        "song_name": "Flower Dance",
+        "song_artist": "DJ Okawari",
+        "creator": "Megajigglypuff714",
+        "stars": "10",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031545464283201616/DJOkawari-FlowerDance.zip"
+    },
+    {
+        "song_name": "Crystallized",
+        "song_artist": "Camellia",
+        "creator": "Brood",
+        "stars": "8",
+        "dl": "https://drive.google.com/file/d/1jtgZHDvLybMD4bV-w8LUNskABsd1e6cf/view?usp=sharing"
+    },
+    {
+        "song_name": "Worst Beat Ever Created [Number 10]",
+        "song_artist": "DistantCry x LUIOFFICIAL",
+        "creator": "Gloomhonk",
+        "stars": "10",
+        "bpm": "187",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031568474234949764/WorstBeat10.zip"
+    },
+    {
+        "song_name": "Visions and Afterthoughts",
+        "song_artist": "Red Vox\r\n",
+        "creator": "Atlas Fox",
+        "stars": "4",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031575687808684133/visionsandafterthoughts.zip"
+    },
+    {
+        "song_name": "Die In A Fire",
+        "song_artist": "The Living Tombstone",
+        "creator": "Foxeru",
+        "stars": "6",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031596651468570734/dieinafire.zip"
+    },
+    {
+        "song_name": "Hysteric Night Girl",
+        "song_artist": "PSYQUI feat. Such",
+        "creator": "Kizuflux",
+        "stars": "7",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031605432558555226/hysteric.zip"
+    },
+    {
+        "song_name": "Erasure",
+        "song_artist": "Always",
+        "creator": "Whybird",
+        "stars": "4",
+        "dl": "https://drive.google.com/file/d/165qGSp5fEVeA1OxjvSeIy8gxgVpcLR9q/view?usp=sharing"
+    },
+    {
+        "song_name": "Dolphin Shoals (MK8)",
+        "song_artist": "Atsuko Asahi",
+        "creator": "Gloomhonk",
+        "stars": "10",
+        "bpm": "138",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031638696400793690/DolphinShoals.zip"
+    },
+    {
+        "song_name": "15-Step",
+        "song_artist": "Radiohead",
+        "creator": "Karif_Wins",
+        "stars": "8",
+        "bpm": "188",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031643874520735814/Radiohead_-_15-Step.zip"
+    },
+    {
+        "song_name": "Letter",
+        "song_artist": "tekalu feat. おんた",
+        "creator": "Brood",
+        "stars": "7",
+        "bpm": "189",
+        "dl": "https://drive.google.com/file/d/1giNw0ypvf9ognw7wpinvhWpyQEPETxD2/view?usp=sharing"
+    },
+    {
+        "song_name": "Flight Of The Bumblebee",
+        "song_artist": "Nikolai Rimsky-Korsakov",
+        "creator": "Slaw",
+        "stars": "10",
+        "bpm": "288",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031668783686885386/fotb.zip"
+    },
+    {
+        "song_name": "I'll Make A Man Out Of You",
+        "song_artist": "Matthew Wilder",
+        "creator": "Shorty132471",
+        "stars": "5",
+        "bpm": "115",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031668416597217320/Ill_Make_a_Man_Out_Of_You.zip"
+    },
+    {
+        "song_name": "Psychosocial In The Moonlight",
+        "song_artist": "Slipknot + King Harvest",
+        "creator": "JohnnyKGames",
+        "stars": "5",
+        "bpm": "155",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031669216673271899/psychoremix.zip"
+    },
+    {
+        "song_name": "Penis Music (Rubber Band)",
+        "song_artist": "Jackal Queenston",
+        "creator": "Brood",
+        "stars": "6",
+        "bpm": "175",
+        "dl": "https://drive.google.com/file/d/1E-03QEPxvBN5YJBa4TulDMe9npTyu9DS/view?usp=sharing"
+    },
+    {
+        "song_name": "The Only Thing They Fear Is You",
+        "song_artist": "Mick Gordon",
+        "creator": "Oatmealy",
+        "stars": "7",
+        "bpm": "103",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031676614465028126/TOTTFIY.zip"
+    },
+    {
+        "song_name": "Pandora Palace (Deltarune)",
+        "song_artist": "Toby Fox",
+        "creator": "Bhc",
+        "stars": "9",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031681756123897896/PandoraPalace.zip"
+    },
+    {
+        "song_name": "Invaders Must Die",
+        "song_artist": "The Prodigy",
+        "creator": "Lordmau5",
+        "stars": "5",
+        "bpm": "140",
+        "dl": "https://drive.google.com/file/d/1b6Gw6tZk-pF_h1cS67KHI6ISRniZruAG/view?usp=sharing"
+    },
+    {
+        "song_name": "Attack of the Killer Queen",
+        "song_artist": "Toby Fox",
+        "creator": "Séance",
+        "stars": "10",
+        "bpm": "144",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031706664488947772/killerqueen.zip"
+    },
+    {
+        "song_name": "#1f1e33 (from \"Arcaea\")",
+        "song_artist": "Camellia",
+        "creator": "(\"pnfrlEnm\");",
+        "stars": "10",
+        "bpm": "181",
+        "dl": "https://drive.google.com/file/d/1kH7j4b4Ozc0qQ7BWIShAI8FCN7TQiLVU/view?usp=sharing"
+    },
+    {
+        "song_name": "Ghost Choir",
+        "song_artist": "Louie Zong",
+        "creator": "Slaw",
+        "stars": "3",
+        "bpm": "201",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031742741966762084/GhostChoir.zip"
+    },
+    {
+        "song_name": "Still Alive",
+        "song_artist": "Jonathan Coulton",
+        "creator": "JamesWillett",
+        "stars": "5",
+        "bpm": "120",
+        "dl": "https://drive.google.com/file/d/1QBuuyzcqIIFlsGRek0cwlnSfZ4F7xRAR/view?usp=sharing"
+    },
+    {
+        "song_name": "Star Light Zone",
+        "song_artist": "Masato Nakamura",
+        "creator": "Doinkington",
+        "stars": "5",
+        "bpm": "125",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031760713179471903/StarLightZone.rar"
+    },
+    {
+        "song_name": "Chocobo-Chocobo (FFIV Chocobo Theme)",
+        "song_artist": "Nobuo Uematsu",
+        "creator": "RobPlayinGames",
+        "stars": "7",
+        "bpm": "145",
+        "dl": "https://drive.google.com/file/d/1NB3x66DYb04akXs0wZg7j-BVBXfvRKdk/view?usp=sharing"
+    },
+    {
+        "song_name": "Specialist (Never More ver.)",
+        "song_artist": "Shoji Meguro",
+        "creator": "Joetastic",
+        "stars": "5",
+        "bpm": "128",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031764361867444224/Specialist.zip"
+    },
+    {
+        "song_name": "G.O.A.T",
+        "song_artist": "Polyphia",
+        "creator": "Marmarblekship",
+        "stars": "10",
+        "bpm": "107",
+        "dl": "https://drive.google.com/drive/folders/1BmtxR9_-gbP25K_l7X78o2AWoUg479UN?usp=sharing"
+    },
+    {
+        "song_name": "Naive Melody (This Must Be The Place)",
+        "song_artist": "Talking Heads",
+        "creator": "Skootles",
+        "stars": "5",
+        "bpm": "114",
+        "dl": "https://drive.google.com/file/d/1nhI5jwYw_9WxEWPgB995LG9lf7_MC1qU/view"
+    },
+    {
+        "song_name": "Video Games",
+        "song_artist": "Lana Del Rey",
+        "creator": "Hollow",
+        "stars": "4",
+        "bpm": "61",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031782799344152606/VideoGames.zip"
+    },
+    {
+        "song_name": "Want You Gone (Portal 2)",
+        "song_artist": "Jonathan Coulton",
+        "creator": "Atlas Fox",
+        "stars": "5",
+        "bpm": "100",
+        "dl": "https://drive.google.com/file/d/1V5EruDSBltsGnDtCznrjIQD7DVcZY3Kh/view?usp=sharing"
+    },
+    {
+        "song_name": "Toxic",
+        "song_artist": "Britney Spears",
+        "creator": "JamesWillett",
+        "stars": "7",
+        "bpm": "143",
+        "dl": "https://drive.google.com/file/d/1twWvZX6sucJnVkITTz33N_Dx6S1ILK8K/view?usp=sharing"
+    },
+    {
+        "song_name": "All Star ",
+        "song_artist": "Smash Mouth",
+        "creator": "Goodfrenchfries",
+        "stars": "7",
+        "bpm": "203",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031797391151599666/Smash_Mouth_-_All_Star.7z"
+    },
+    {
+        "song_name": "Morning News (Thailand Chan. 3)",
+        "song_artist": "Jirayu Tangsrisuk",
+        "creator": "Pat!",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031816255574900786/morningnews.rar"
+    },
+    {
+        "song_name": "Butterfly",
+        "song_artist": "Smile",
+        "creator": "Goodfrenchfries",
+        "bpm": "135",
+        "dl": "https://drive.google.com/file/d/1gl7eveqBu5DbD8pn5TIngdP7B4i_z1OU/view?usp=sharing"
+    },
+    {
+        "song_name": "Love-coloured Master spark",
+        "song_artist": "ZUN",
+        "creator": "티비보는잉간",
+        "stars": "8",
+        "bpm": "169",
+        "dl": "https://drive.google.com/file/d/1Ur8nQJgdP-u2nLS0665Aj-DaVR9GBsOX/view?usp=sharing"
+    },
+    {
+        "song_name": "SOS",
+        "song_artist": "Midnight Grand Orchestra",
+        "creator": "Oppen_heimer",
+        "stars": "9",
+        "bpm": "142",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031862692362866758/SOS_MGO.zip"
+    },
+    {
+        "song_name": "Bad Apple!! feat.nomico (Camellia’s “Bad Psy!!” Remix)",
+        "song_artist": "Masayoshi Minoshima",
+        "creator": "Maagnatism",
+        "stars": "9",
+        "bpm": "160",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031878813254160444/badapplecamellia.zip"
+    },
+    {
+        "song_name": "Team Fortress 2 (Trombone Champ Mix)",
+        "song_artist": "Mike Morasky / SanicStudios",
+        "creator": "SanicStudios",
+        "stars": "7",
+        "bpm": "150",
+        "dl": "https://drive.google.com/file/d/1GyGOh0IPzjDw4mkoayIvUqy-fGkuJUq6/view?usp=sharing"
+    },
+    {
+        "song_name": "The Second Waltz",
+        "song_artist": "Dmitri Shostakovich",
+        "creator": "KlosRadieschen",
+        "stars": "7",
+        "bpm": "185",
+        "dl": "https://drive.google.com/file/d/1MzCY5Se264WtS2Cp8eg4WXhtxvef3f1V/view?usp=sharing"
+    },
+    {
+        "song_name": "Ludwig, The Holy Blade (Bloodborne)",
+        "song_artist": "Nobuyoshi Suzuki",
+        "creator": "Gloomhonk",
+        "stars": "6",
+        "bpm": "186",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031925266643177562/LudwigHolyBlade.zip"
+    },
+    {
+        "song_name": "Rainbow Road (Mario Kart Wii)",
+        "song_artist": "Asuka Ohta",
+        "creator": "Fin",
+        "stars": "6",
+        "bpm": "160",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031929576382812191/Rainbow_Road_MK_Wii.zip"
+    },
+    {
+        "song_name": "Butter-Fly (Digimon)",
+        "song_artist": "Koji Wada",
+        "creator": "Coryn",
+        "stars": "7",
+        "bpm": "165",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031933131139330168/Butter-Fly.zip"
+    },
+    {
+        "song_name": "Rude Buster - Trombone Champ Remix",
+        "song_artist": "Toby Fox / NyxTheShield",
+        "creator": "NyxTheShield",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031937714293055509/Rude_Buster_Trombone_Champ_Remix_by_NyxTheShield.zip"
+    },
+    {
+        "song_name": "Feel Good Inc.",
+        "song_artist": "Gorillaz",
+        "creator": "JohnnyKGames",
+        "stars": "6",
+        "bpm": "138",
+        "dl": "https://drive.google.com/file/d/1aAuOjSilu-mrKT7F-A-UrWro05H0x58n/view?usp=sharing"
+    },
+    {
+        "song_name": "Le Perv",
+        "song_artist": "Carpenter Brut",
+        "creator": "Deinonychus",
+        "Length": "4:19",
+        "stars": "9",
+        "bpm": "120",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031988103830839406/le_perv.zip"
+    },
+    {
+        "song_name": "Let's Go Away (Daytona)",
+        "song_artist": "Takenobu Mitsuyoshi",
+        "creator": "Atlas Fox",
+        "stars": "9",
+        "bpm": "240",
+        "dl": "https://drive.google.com/file/d/1Jg6c7dfyTTuqMSMicuTBbNFcybLypDLV/view?usp=sharing"
+    },
+    {
+        "song_name": "Area 1: City - Mighty Morphin Power Rangers",
+        "song_artist": "Iku Mizutani",
+        "creator": "BruhBQueue",
+        "stars": "8",
+        "bpm": "120",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031999929486426252/rangers.7z"
+    },
+    {
+        "song_name": "Stardew Valley Overture",
+        "song_artist": "ConcernedApe",
+        "creator": "Shorty132471",
+        "stars": "3",
+        "bpm": "93",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032003824774303765/Stardew_Valley_OST_-_Stardew_Valley_Overture.zip"
+    },
+    {
+        "song_name": "Ghost Duet",
+        "song_artist": "Louie Zong",
+        "creator": "Slaw",
+        "stars": "3",
+        "bpm": "156",
+        "dl": "https://ln5.sync.com/dl/4ad5c2c60#3vbdsnga-wsfwer93-a9vzwgt5-urj34j8i"
+    },
+    {
+        "song_name": "You Lose!",
+        "song_artist": "Magdalena Bay",
+        "creator": "Rowanator3000",
+        "stars": "3",
+        "bpm": "120",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032017072873541642/youlose.zip"
+    },
+    {
+        "song_name": "RED ZONE",
+        "song_artist": "Tatsh&NAOKI",
+        "creator": "YajuShinki",
+        "stars": "10",
+        "bpm": "165",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032029177966239855/RED_ZONE.zip"
+    },
+    {
+        "song_name": "Obsessed (With My Shadow Self)",
+        "song_artist": "Clarence Clarity",
+        "creator": "Rowanator3000",
+        "stars": "4",
+        "bpm": "97",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032031406798413945/obsessed.zip"
+    },
+    {
+        "song_name": "Discord 2019",
+        "song_artist": "Eurobeat Brony ft. Odyssey",
+        "creator": "WORLDWIDEWOLF (Arne)",
+        "stars": "10",
+        "bpm": "158",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032035573541650573/discord2019.zip"
+    },
+    {
+        "song_name": "Vanished",
+        "song_artist": "Crystal Castles",
+        "creator": "Oatmealy",
+        "bpm": "120",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032036660130627604/Vanished.zip"
+    },
+    {
+        "song_name": "The Moon (Ducktales Remastered)",
+        "song_artist": "Jake Kaufman",
+        "creator": "JamesWillett",
+        "stars": "8",
+        "bpm": "180",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032039529718218802/moon.zip"
+    },
+    {
+        "song_name": "Yesterday",
+        "song_artist": "The Beatles",
+        "creator": "aRVin",
+        "stars": "4",
+        "bpm": "97",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032048073783914496/Yesterday.zip"
+    },
+    {
+        "song_name": "Crab Rave",
+        "song_artist": "Noisestorm",
+        "creator": "Luca",
+        "stars": "9",
+        "bpm": "125",
+        "dl": "https://drive.google.com/file/d/1MEO0PZN3CCRATMT3aHXBIXUS4nHG1NZ7/view?usp=sharing"
+    },
+    {
+        "song_name": "Afternoon in Heaven",
+        "song_artist": "Magdalena Bay",
+        "creator": "Rowanator3000",
+        "stars": "3",
+        "bpm": "148",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032062224254119936/afternooninheaven.zip"
+    },
+    {
+        "song_name": "Bad Apple",
+        "song_artist": "Touhou Project",
+        "creator": "Skyrocket64",
+        "stars": "6",
+        "bpm": "138",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032067493298192435/BadApple.zip"
+    },
+    {
+        "song_name": "Kiss Me Thru The Phone",
+        "song_artist": "Soulja Boy ft. Sammie",
+        "creator": "Punkband",
+        "stars": "5",
+        "bpm": "150",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032085026575241236/Kiss_Me_Thru_the_Phone_-_punkband.zip"
+    },
+    {
+        "song_name": "Heart Of Hickory",
+        "song_artist": "Major Parkinson",
+        "creator": "Deinonychus",
+        "Length": "3:33",
+        "stars": "7",
+        "bpm": "112",
+        "dl": "https://cdn.discordapp.com/attachments/1032088127168327761/1032088972970704946/HeartofHickory.zip"
+    },
+    {
+        "song_name": "He's a Pirate",
+        "song_artist": "Klaus Badelt/Hans Zimmer",
+        "creator": "Ryger",
+        "stars": "7",
+        "bpm": "140",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032115355264483328/Hes_A_Pirate.zip"
+    },
+    {
+        "song_name": "Welcome to Kitty City",
+        "song_artist": "Cyriak",
+        "creator": "Sethro57",
+        "stars": "6",
+        "bpm": "90",
+        "dl": "https://drive.google.com/file/d/1VIERYaDJzDP-m6BKT7VumxSI7ksEeflS/view"
+    },
+    {
+        "song_name": "Teo",
+        "song_artist": "Leo/need ft. Hatsune Miku",
+        "creator": "Joetastic",
+        "stars": "8",
+        "bpm": "185",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032127408687558706/teo.zip"
+    },
+    {
+        "song_name": "Glimpse of Us",
+        "song_artist": "Weng",
+        "creator": "Weng",
+        "stars": "5",
+        "bpm": "170",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032129282023116851/glimpseofus.rar"
+    },
+    {
+        "song_name": "Scary Monsters and Nice Sprites (MIDI Version)",
+        "song_artist": "Skrillex",
+        "creator": "NekoDinner",
+        "stars": "7",
+        "bpm": "140",
+        "dl": "https://drive.google.com/file/d/1FlORdi7HfBkPRDE-zHNvUu9Q0uWvALpJ/view?usp=sharing"
+    },
+    {
+        "song_name": "The Legend of Zelda - Overworld Theme",
+        "creator": "PumpkinSpiceAllYearPlsThank",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032158217393950810/ZeldaTheme.zip"
+    },
+    {
+        "song_name": "Danger Zone",
+        "song_artist": "Kenny Loggins",
+        "creator": "Danja",
+        "dl": "https://drive.google.com/file/d/1sD5Or-_COdqtcxO3oFavlaadSqWFXL53/view?usp=sharing"
+    },
+    {
+        "song_name": "4'33\"",
+        "song_artist": "John Cage",
+        "creator": "TalkyPup",
+        "stars": "1",
+        "bpm": "120",
+        "dl": "https://www.dropbox.com/s/clmmmedzcuf242b/433.zip?dl=0"
+    },
+    {
+        "song_name": "Puttin' On The Ritz",
+        "song_artist": "Irving Berlin",
+        "creator": "Bonesplitter666",
+        "stars": "5",
+        "bpm": "175",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032169695199121478/PuttinontheRitz.zip"
+    },
+    {
+        "song_name": "GHOST",
+        "song_artist": "Camellia",
+        "creator": "Foxeru",
+        "stars": "10",
+        "bpm": "220",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032170715337732096/GHOST_original__nerfed.zip"
+    },
+    {
+        "song_name": "Them's Fightin' Words",
+        "song_artist": "Chuck Salamone",
+        "creator": "Xalias",
+        "stars": "3",
+        "bpm": "83",
+        "dl": "https://drive.google.com/file/d/191VFmvTWepmV_yoZUAk1ZVyHUTw6yZic/view?usp=sharing"
+    },
+    {
+        "song_name": "Steam Gardens (Super Mario Odyssey)",
+        "song_artist": "Koji Kondo",
+        "creator": "Weng",
+        "stars": "4",
+        "bpm": "146",
+        "dl": "https://drive.google.com/file/d/1HqWGETI8NfHGff8HoP5_i19io2bl8H5z/view?usp=sharing"
+    },
+    {
+        "song_name": "Sneakman",
+        "song_artist": "Hideki Naganuma",
+        "creator": "Wiz",
+        "stars": "4",
+        "bpm": "155",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032305954445869099/Sneakman.zip"
+    },
+    {
+        "song_name": "Schweine",
+        "song_artist": "Glukoza",
+        "creator": "SargentNeo",
+        "stars": "6",
+        "bpm": "85",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032346913938346014/schweine.7z"
+    },
+    {
+        "song_name": "Frog's Theme (Chrono Trigger)",
+        "song_artist": "Yasunori Mitsuda",
+        "creator": "Gloomhonk",
+        "stars": "8",
+        "bpm": "125",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032355910653329508/FrogsTheme.zip"
+    },
+    {
+        "song_name": "Rock N' Roll Today",
+        "song_artist": "Russkaya",
+        "creator": "Sulphur",
+        "stars": "7",
+        "bpm": "190",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032365244493860956/rocknrolltoday.7z"
+    },
+    {
+        "song_name": "Polar",
+        "song_artist": "Oatmealy",
+        "creator": "Oatmealy",
+        "stars": "6",
+        "bpm": "135",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032372729023832064/Polar.zip"
+    },
+    {
+        "song_name": "Propane Nightmares",
+        "song_artist": "Pendulum",
+        "creator": "Shorty132471",
+        "stars": "5",
+        "bpm": "174",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032374208702971936/Propane_Nightmares.zip"
+    },
+    {
+        "song_name": "No Surprises",
+        "song_artist": "Radiohead",
+        "creator": "Whybird",
+        "stars": "4",
+        "bpm": "80",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032392862748385340/no_surprises.zip"
+    },
+    {
+        "song_name": "Huggie Wuggies",
+        "song_artist": "Dakooters",
+        "creator": "Joetastic",
+        "stars": "7",
+        "bpm": "120",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032393924729372692/OWO.zip"
+    },
+    {
+        "song_name": "Chrono Trigger - 600 A.D. (Wind Scene)",
+        "song_artist": "Yasunori Mitsuda",
+        "creator": "JamesWillett",
+        "stars": "3",
+        "bpm": "88",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032413676776464434/wind.zip"
+    },
+    {
+        "song_name": "Soulless 6",
+        "song_artist": "ExileLord",
+        "creator": "DillThePill08",
+        "stars": "10",
+        "bpm": "320",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032419822199394314/s6.zip"
+    },
+    {
+        "song_name": "A Cruel Angel's Thesis (Evangelion)",
+        "song_artist": "Toshiyuki Omori/Hidetoshi",
+        "creator": "Gloomhonk",
+        "stars": "9",
+        "bpm": "128",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032420635105824819/ACruelAngelsThesis_Instrumental_Version.rar"
     },
     {
         "song_name": "Sonic The Hedgehog - Green Hill Zone",
         "song_artist": "Masato Nakamura",
         "creator": "Deinonychus",
+        "Length": "1:46",
+        "stars": "4",
+        "bpm": "150",
         "dl": "https://cdn.discordapp.com/attachments/1032088127168327761/1032425522145263706/GreenHillZone.zip"
+    },
+    {
+        "song_name": "Coconut Mall (Mario Kart Wii)",
+        "song_artist": "Asuka Ota/Ryo Nagamatsu",
+        "creator": "Eski",
+        "stars": "8",
+        "bpm": "132",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032448519291809792/COCONUTMALLMID.zip"
+    },
+    {
+        "song_name": "Beetlejuice (Skatune Network cover)",
+        "song_artist": "Skatune Network",
+        "creator": "Chromaticspace",
+        "stars": "9",
+        "bpm": "180",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032464692016320612/sn_beetlejuice.zip"
+    },
+    {
+        "song_name": "Slow Dancing in the Dark",
+        "song_artist": "Joji",
+        "creator": "Weng",
+        "stars": "4",
+        "bpm": "89",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032465932544651264/SDITD.rar"
+    },
+    {
+        "song_name": "Shiny Slimy Story",
+        "song_artist": "Hololive",
+        "creator": "Daydream",
+        "stars": "5",
+        "bpm": "168",
+        "dl": "https://drive.google.com/file/d/1altcAKIC0mjVO-68GPDCc3wCJY_QvjBN/view?usp=sharing"
+    },
+    {
+        "song_name": "Undertale The Musical",
+        "song_artist": "Logan Hugueny-Clark",
+        "creator": "Ender",
+        "stars": "5",
+        "bpm": "119",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032495337635586098/utm.zip"
+    },
+    {
+        "song_name": "April 14th",
+        "song_artist": "Aphex Twin",
+        "creator": "JamesWillett",
+        "stars": "4",
+        "bpm": "79",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032506250400911390/avril14th.zip"
     },
     {
         "song_name": "Never Gonna Give You Up",
         "song_artist": "Rick Astley",
         "creator": "Goodfrenchfries",
-        "dl": "https://cdn.discordapp.com/attachments/1012274625859817503/1035517310208835686/Rick_Astley_-_Never_Gonna_Give_You_Up.zip"
+        "stars": "7",
+        "bpm": "113",
+        "dl": "https://drive.google.com/file/d/1s2CDVDGxOCgUYQ1CQ94lU2Qr82UYjFl3/view?usp=sharing"
+    },
+    {
+        "song_name": "Calamity Fortune",
+        "song_artist": "LeaF",
+        "creator": "Kizuflux",
+        "stars": "10",
+        "bpm": "200",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032519129242013746/calamity.zip"
+    },
+    {
+        "song_name": "Schnappi Das Krokodil",
+        "song_artist": "Radio SAW",
+        "creator": "Eski",
+        "stars": "7",
+        "bpm": "130",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032521072937017395/schnappi.zip"
+    },
+    {
+        "song_name": "Make It Funky Now",
+        "song_artist": "DOT96",
+        "creator": "Coryn",
+        "stars": "10",
+        "bpm": "146",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032540167552127077/make_it_funky.zip"
+    },
+    {
+        "song_name": "Sabre Dance",
+        "song_artist": "Aram Kachaturian",
+        "creator": "NekoDinner",
+        "stars": "6",
+        "bpm": "170",
+        "dl": "https://drive.google.com/file/d/12ML9A_sTfG5XymHgF2ww58qqGdci-5zO/view?usp=sharing"
+    },
+    {
+        "song_name": "Heart-Pounding Flight",
+        "song_artist": "TetraCalyx",
+        "creator": "Yoshika_DK",
+        "stars": "9",
+        "bpm": "150",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032606322237132932/Pounding.rar"
+    },
+    {
+        "song_name": "Foot Thru The Door",
+        "song_artist": "The JBL & Enjoy",
+        "creator": "Rowanator3000",
+        "stars": "5",
+        "bpm": "155",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032606326032961596/footthruthedoor.zip"
+    },
+    {
+        "song_name": "The Muppets Show Theme",
+        "song_artist": "Sam Pottle",
+        "creator": "Frolicols",
+        "stars": "7",
+        "bpm": "116",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032690851698180156/Muppets.zip"
+    },
+    {
+        "song_name": "The Adventures of Tintin Opening Theme",
+        "song_artist": "Ray Parker, Jim Morgan and Tom Szchzesniak",
+        "creator": "Neetsel",
+        "Length": "1:09",
+        "stars": "5",
+        "dl": "https://drive.google.com/file/d/1j9wpNFpIh9PEmEHMwZuKKKkQXX2oRbAv/view?usp=sharing"
+    },
+    {
+        "song_name": "Freedom Dive (2)",
+        "song_artist": "Xi",
+        "creator": "Megajigglypuff714",
+        "stars": "10",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032706535492689931/FreedomDive.zip"
+    },
+    {
+        "song_name": "And I Will Never Hit Those Notes",
+        "song_artist": "Lemonan/Susboy",
+        "creator": "Gloomhonk",
+        "stars": "10",
+        "bpm": "133",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032718540748370122/AndIWillNeverHitThoseNotes.zip"
+    },
+    {
+        "song_name": "Xenoblade Chronicles 3 - Battle: Consul M",
+        "song_artist": "ACE",
+        "creator": "Ciamciaramciam",
+        "stars": "4",
+        "bpm": "89",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032740802125905940/XC3-Battle_Consul_M.zip"
+    },
+    {
+        "song_name": "It Wasn't Me",
+        "song_artist": "Shaggy",
+        "creator": "JamesWillett",
+        "stars": "9",
+        "bpm": "95",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032749925903118498/wasntme.zip"
+    },
+    {
+        "song_name": "Animal Spirits",
+        "song_artist": "Vulfpeck",
+        "creator": "Hmansour",
+        "stars": "7",
+        "bpm": "202",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032766723117551676/animal-spirits.zip"
+    },
+    {
+        "song_name": "It's Just a Burning Memory",
+        "song_artist": "The Caretaker",
+        "creator": "Sethro57",
+        "stars": "3",
+        "bpm": "74",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033144039006023710/burning_memory.zip"
+    },
+    {
+        "song_name": "Don't Stop Me Now",
+        "song_artist": "Queen",
+        "creator": "aRVin",
+        "stars": "8",
+        "bpm": "156",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032781998063894618/Dont_Stop_Me_Now.zip"
+    },
+    {
+        "song_name": "I Really Want To Stay At Your House",
+        "song_artist": "Rosa Walter",
+        "creator": "Henry Zhou's Textbook",
+        "stars": "5",
+        "bpm": "125",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032782066699489280/YourHouse.zip"
+    },
+    {
+        "song_name": "Evil Zone - Right Way (Danzaiver)",
+        "song_artist": "Yuke's",
+        "creator": "Shorty132471",
+        "stars": "7",
+        "bpm": "163",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032791269346377818/Evil_Zone_-_Danzaiver.zip"
+    },
+    {
+        "song_name": "Fly Me To The Moon",
+        "song_artist": "Frank Sinatra",
+        "creator": "Deinonychus",
+        "Length": "2:27",
+        "stars": "5",
+        "bpm": "119",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032792961836138548/Flymetothemoon.zip"
+    },
+    {
+        "song_name": "66",
+        "song_artist": "Roughsketch",
+        "creator": "Bw242",
+        "stars": "10",
+        "bpm": "333",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032793501118771280/Six_Six_Six.zip"
+    },
+    {
+        "song_name": "To The Edge",
+        "song_artist": "The Primals",
+        "creator": "Renshi Hyatsuki",
+        "stars": "7",
+        "bpm": "100",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032809275732545576/ToTheEdge.zip"
+    },
+    {
+        "song_name": "Whiplash",
+        "song_artist": "Hank Levy",
+        "creator": "aRVin",
+        "stars": "9",
+        "bpm": "107",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032811591114170428/Whiplash.zip"
+    },
+    {
+        "song_name": "Walk Like An Egyptian",
+        "song_artist": "The Bangles",
+        "creator": "Idiot",
+        "stars": "8",
+        "bpm": "103",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032812903092453476/WalkLikeanEgyptian.zip"
+    },
+    {
+        "song_name": "Army",
+        "song_artist": "Ben Folds Five",
+        "creator": "JamesWillett",
+        "stars": "8",
+        "bpm": "174",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032826882397315102/army.zip"
     },
     {
         "song_name": "Among Us Drip",
         "song_artist": "Leonz",
         "creator": "_Rodefeld571",
+        "stars": "4",
+        "bpm": "130",
         "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032849810790809650/Among_Us_Drip.zip"
+    },
+    {
+        "song_name": "Wii Chess",
+        "song_artist": "Silvagunner/Haihatu",
+        "creator": "Femboy Haihatu",
+        "stars": "7",
+        "bpm": "200",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032850229533343814/WiiChess_GameSettings.zip"
+    },
+    {
+        "song_name": "KICK BACK",
+        "song_artist": "Kenshi Yonezu",
+        "creator": "Charjie",
+        "stars": "5",
+        "bpm": "204",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032870975127171082/KICKBACK.rar"
+    },
+    {
+        "song_name": "Two Hour Testament",
+        "song_artist": "ExileLord",
+        "creator": "DillThePill08",
+        "stars": "10",
+        "bpm": "128",
+        "dl": "https://drive.google.com/file/d/1NJ8uLchFIJlb9vmLSNqzviyGuOlOZQox/view"
+    },
+    {
+        "song_name": "Maud Gone",
+        "song_artist": "Car Seat Headrest",
+        "creator": "Tinbum",
+        "stars": "5",
+        "bpm": "105",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032896422405754970/maudgone.zip"
+    },
+    {
+        "song_name": "Seperate Ways",
+        "song_artist": "Journey",
+        "creator": "MomoS2K",
+        "stars": "5",
+        "bpm": "132",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032920520317992980/separateways.zip"
+    },
+    {
+        "song_name": "Too Much So Much Very Much",
+        "song_artist": "Bird Thongchai",
+        "creator": "Pat!",
+        "dl": "https://drive.google.com/file/d/1Bmsn1FZL0_7iXxJCKAt_9WypfBifTb_2/view?usp=sharing"
+    },
+    {
+        "song_name": "Ink Me Up",
+        "song_artist": "Shiho Fujii",
+        "creator": "Toastii",
+        "stars": "7",
+        "bpm": "172",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032970532867559464/InkMeUp.zip"
+    },
+    {
+        "song_name": "Flamingo",
+        "song_artist": "Kero Kero Bonito",
+        "creator": "CoralreefCalamity",
+        "stars": "7",
+        "bpm": "178",
+        "dl": "https://drive.google.com/file/d/1xtUMeDtg5Ho168IYJ74DcSRWQvpDlNCf/view?usp=sharing"
+    },
+    {
+        "song_name": "Haruka Kanata - Naruto Opening 2",
+        "song_artist": "Asian Kung-Fu Generation",
+        "creator": "BruhBQueue",
+        "stars": "5",
+        "bpm": "174",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033032837168906390/NarutoOP2.7z"
+    },
+    {
+        "song_name": "March Ahead - Paper Mario",
+        "song_artist": "Yuka Tsujiyoko",
+        "creator": "Frick",
+        "stars": "8",
+        "bpm": "132",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033063456825425961/march_ahead.zip"
+    },
+    {
+        "song_name": "Them Bones",
+        "song_artist": "Alice In Chains",
+        "creator": "Shorty132471",
+        "stars": "6",
+        "bpm": "165",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033073695486394398/Them_TromBones.zip"
+    },
+    {
+        "song_name": "Mask",
+        "song_artist": "Dream",
+        "creator": "Squirt",
+        "stars": "5",
+        "bpm": "118",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033079119929409556/mask.zip"
+    },
+    {
+        "song_name": "El Sonidito",
+        "song_artist": "Hechizeros Band",
+        "creator": "Gloomhonk",
+        "stars": "5",
+        "bpm": "154",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033081014286811236/ElSonidito.zip"
+    },
+    {
+        "song_name": "FitnessGram Pacer Test",
+        "song_artist": "The Cooper Institute",
+        "creator": "Bobbie",
+        "stars": "10",
+        "bpm": "60",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033086325131321384/FitnessGram.zip"
+    },
+    {
+        "song_name": "Welcome To The Neighbourhood",
+        "song_artist": "Libyans",
+        "creator": "JamesWillett",
+        "stars": "5",
+        "bpm": "205",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033113649746804746/welcometotheneighborhood.zip"
+    },
+    {
+        "song_name": "Philippine National Anthem",
+        "song_artist": "Julian Felipe",
+        "creator": "NicDroid / LumpiaLord25",
+        "stars": "5",
+        "bpm": "100",
+        "dl": "https://drive.google.com/file/d/1aEWHZv4ehSg6QEbsxkVMnd_hX92hVIx7/view?usp=sharing"
+    },
+    {
+        "song_name": "Slide Tackle",
+        "song_artist": "Japanese Breakfast",
+        "creator": "Rowanator3000",
+        "stars": "5",
+        "bpm": "128",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033135323603013663/slidetackle.zip"
+    },
+    {
+        "song_name": "The Safari",
+        "song_artist": "Lion Mushashi",
+        "creator": "NicDroid / LumpiaLord25",
+        "stars": "6",
+        "bpm": "150",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033142400534716416/TheSafari.zip"
+    },
+    {
+        "song_name": "Big Church [megszentségteleníthetetlenségeskedéseitekért]",
+        "song_artist": "Sunn O)))",
+        "creator": "Frick",
+        "stars": "1",
+        "bpm": "75",
+        "dl": "https://drive.google.com/file/d/1BJt_dp6scsGiMtLS7KM3R-vrunTO-v7U/view?usp=sharing"
+    },
+    {
+        "song_name": "24 Hour Cinderella - Yakuza 0",
+        "song_artist": "Hidenori Shoji",
+        "creator": "Padlo",
+        "stars": "8",
+        "bpm": "150",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033170481991389245/24_Hour_Cinderella.zip"
+    },
+    {
+        "song_name": "Kanye West - Shit",
+        "song_artist": "Gamerat101",
+        "creator": "Goodfrenchfries",
+        "stars": "5",
+        "bpm": "210",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033205693425143889/Kanye_West_-_Shit.zip"
+    },
+    {
+        "song_name": "Your Best Nightmare",
+        "song_artist": "Toby Fox",
+        "creator": "Oofiet",
+        "stars": "8",
+        "bpm": "190",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033219140225335376/YourBestNightmare.7z"
+    },
+    {
+        "song_name": "Papers Please: Theme Song",
+        "song_artist": "Lucas Pope",
+        "creator": "Sethro57",
+        "stars": "4",
+        "bpm": "110",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033229236850401322/papers_please.zip"
+    },
+    {
+        "song_name": "When You Sleep",
+        "song_artist": "My Bloody Valentine",
+        "creator": "Tinbum",
+        "stars": "4",
+        "bpm": "129",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033240304582664212/whenyousleep.zip"
+    },
+    {
+        "song_name": "The Hisoutensoku of All Mankind",
+        "song_artist": "Akiyamauni & Sound Holic",
+        "creator": "Yoshika_DK",
+        "stars": "9",
+        "bpm": "168",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033242968942981140/Hisoutensoku2.rar"
+    },
+    {
+        "song_name": "Mark's Pizzeria",
+        "song_artist": "Mark's Pizzeria",
+        "creator": "Garrity",
+        "stars": "10",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033245457079615518/markymoo.zip"
+    },
+    {
+        "song_name": "Treasure",
+        "song_artist": "Bruno Mars",
+        "creator": "Imacop42",
+        "stars": "6",
+        "bpm": "116",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033245660629188618/TreasureBrunoMars.zip"
+    },
+    {
+        "song_name": "What a Wonderful World",
+        "song_artist": "Louis Armstrong",
+        "creator": "BruhBQueue",
+        "stars": "3",
+        "bpm": "70",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033287329806303422/Wonderful.zip"
+    },
+    {
+        "song_name": "Chen's Gensokyo Ondo",
+        "song_artist": "Zun & Toho-Kinemakan",
+        "creator": "Yoshika_DK",
+        "stars": "8",
+        "bpm": "204",
+        "dl": "https://drive.google.com/file/d/1C8ViYGJWaISBMG2MXdJxqtrQr6B7I3cF/view?usp=sharing"
+    },
+    {
+        "song_name": "Liz Truss Resigns As Prime Minister",
+        "song_artist": "Liz Truss",
+        "creator": "Gloomhonk",
+        "stars": "10",
+        "bpm": "100",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033331578606206988/LizTrussResigns.zip"
+    },
+    {
+        "song_name": "Coffin Dance (PMD Style)",
+        "song_artist": "Stephan F",
+        "creator": "Dakar665",
+        "stars": "8",
+        "bpm": "110",
+        "dl": "https://drive.google.com/file/d/1hUwmPEYgX4nyV1UWBME6iBXs3xrC9q1i/view?usp=sharing"
+    },
+    {
+        "song_name": "Down The Line",
+        "song_artist": "Remi Wolf",
+        "creator": "Rowanator3000",
+        "stars": "6",
+        "bpm": "91",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033355367993835540/downtheline.zip"
+    },
+    {
+        "song_name": "Erika (Marching Song)",
+        "song_artist": "Herms Niel",
+        "creator": "NicDroid / LumpiaLord25",
+        "stars": "4",
+        "bpm": "115",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033383274329931836/ErikaMarch.zip"
+    },
+    {
+        "song_name": "Rivers In The Desert (Persona 5)",
+        "song_artist": "Shoji Meguro ft. Lyn Inaizumi",
+        "creator": "Joetastic",
+        "stars": "5",
+        "bpm": "130",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033405870832373812/Rivers_in_the_Desert.zip"
+    },
+    {
+        "song_name": "Less Than Zero",
+        "song_artist": "The Weekend",
+        "creator": "Nor.flac",
+        "stars": "8",
+        "bpm": "143",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033420830962622584/LessThanZero.zip"
+    },
+    {
+        "song_name": "In The End",
+        "song_artist": "Linkin Park",
+        "creator": "DerpyChap",
+        "stars": "5",
+        "bpm": "105",
+        "dl": "https://drive.google.com/drive/folders/1AGI1HU7Ib_xtCR_Iz-WPwUmTniWfA2Sl?usp=sharing"
     },
     {
         "song_name": "Super Mario Bros Theme",
         "song_artist": "Koji Kondo",
         "creator": "RubenBML",
+        "stars": "7",
+        "bpm": "100",
         "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033449741524156597/SuperMarioBros.zip"
+    },
+    {
+        "song_name": "Daffodils",
+        "song_artist": "Dummy",
+        "creator": "JamesWillett",
+        "stars": "5",
+        "bpm": "135",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033460684631048192/daffodils.zip"
+    },
+    {
+        "song_name": "Big Shot",
+        "song_artist": "Toby Fox",
+        "creator": "CoralreefCalamity",
+        "stars": "8",
+        "bpm": "140",
+        "dl": "https://drive.google.com/file/d/11R6oXR-u6PICFjadZ-s-iuqYpLxurYqM/view?usp=sharing"
+    },
+    {
+        "song_name": "Lingus",
+        "song_artist": "Snarky Puppy",
+        "creator": "Deinonychus",
+        "Length": "9:52",
+        "stars": "10",
+        "bpm": "130",
+        "dl": "https://cdn.discordapp.com/attachments/1032088127168327761/1033479317352628344/Lingus.zip"
+    },
+    {
+        "song_name": "Flap Off You Beak",
+        "creator": "Eefano",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033489503387652136/Flap_Off_you_Beak.zip"
+    },
+    {
+        "song_name": "Formula 1 Theme",
+        "song_artist": "Brian Tyler",
+        "creator": "NicDroid / LumpiaLord25",
+        "stars": "7",
+        "bpm": "100",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033496967445217310/F1Theme.zip"
+    },
+    {
+        "song_name": "Sogno di Volare (\"The Dream of Flight\")",
+        "song_artist": "Christopher Tin",
+        "creator": "PillarAngel",
+        "stars": "5",
+        "bpm": "65",
+        "dl": "https://drive.google.com/file/d/16bGjVFIAN8WvwdYWY9EPMwVQDyn288LP/view?usp=sharing"
+    },
+    {
+        "song_name": "Sanic Hegehog",
+        "song_artist": "Sanic Hegehog",
+        "creator": "Deinonychus",
+        "Length": "1:47",
+        "stars": "3",
+        "bpm": "150",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033503294787698748/Sanic.zip"
+    },
+    {
+        "song_name": "Jaja Ding Dong",
+        "song_artist": "Holter & Perrson",
+        "creator": "Danja",
+        "stars": "3",
+        "bpm": "143",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033507437434642463/jajadingdong.zip"
+    },
+    {
+        "song_name": "Axel F",
+        "song_artist": "Crazy Frog",
+        "creator": "Znedd1",
+        "stars": "7",
+        "bpm": "136",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033531664976060416/Axel_F_-_Crazy_Frog.zip"
+    },
+    {
+        "song_name": "Your Reality",
+        "song_artist": "Dan Salvato",
+        "creator": "Baconboi6859",
+        "stars": "7",
+        "bpm": "209",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033537537320439908/your_reality.zip"
+    },
+    {
+        "song_name": "Kids",
+        "song_artist": "MGMT",
+        "creator": "Tinbum",
+        "stars": "6",
+        "bpm": "123",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033547390084452442/kids.zip"
+    },
+    {
+        "song_name": "Baba Yetu (Civilization IV)",
+        "song_artist": "Christopher Tin",
+        "creator": "Deinonychus",
+        "Length": "3:26",
+        "stars": "5",
+        "bpm": "92",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033554122097557594/BabaYetu.zip"
+    },
+    {
+        "song_name": "Pomp and Circumstance / Ifuudoudou",
+        "song_artist": "Umetora",
+        "creator": "Joetastic",
+        "stars": "8",
+        "bpm": "130",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033567129024352276/pomp.zip"
+    },
+    {
+        "song_name": "The Pink Panther Theme",
+        "song_artist": "Henry Mancini",
+        "creator": "QwertyGhosty",
+        "stars": "7",
+        "bpm": "117",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033570497797029948/KBI-PINKPANTHER.zip"
+    },
+    {
+        "song_name": "Judgement -Shinpan - - Yakuza 0",
+        "song_artist": "Ryosuke Horii",
+        "creator": "Tendog",
+        "stars": "5",
+        "bpm": "157",
+        "dl": "https://drive.google.com/file/d/1mpD9FFi-Gt2eAsw6eD1CHxLqs9TG21U0/view?usp=sharing"
+    },
+    {
+        "song_name": "Boulevard of Broken Dreams",
+        "song_artist": "Vitamin String Quartet",
+        "creator": "QwertyGhosty",
+        "stars": "4",
+        "bpm": "173",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033582984126812200/KBI-VSQBOBD.zip"
+    },
+    {
+        "song_name": "CHA-LA HEAD CHA-LA",
+        "song_artist": "Hironobu Kageyama",
+        "creator": "Eski",
+        "stars": "3",
+        "bpm": "155",
+        "dl": "https://drive.google.com/file/d/1MiyQLBPV9uzZ38BgrtasAo3QQM3-OwxK/view?usp=sharing"
+    },
+    {
+        "song_name": "Luigi's Mansion",
+        "song_artist": "Skatune Network",
+        "creator": "Chromaticspace",
+        "stars": "7",
+        "bpm": "125",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033600251812118538/sn_luigi.zip"
+    },
+    {
+        "song_name": "Outlaw! (PMD - Explorers of Sky)",
+        "song_artist": "Hideki Sakamoto",
+        "creator": "StaticR",
+        "stars": "10",
+        "bpm": "180",
+        "dl": "https://drive.google.com/file/d/18jmVqC7i3Y3tLjmKacDcMgAAFTadEH0f/view"
+    },
+    {
+        "song_name": "Sober To Death",
+        "song_artist": "Car Seat Headrest",
+        "creator": "Tinbum",
+        "stars": "7",
+        "bpm": "116",
+        "dl": "https://drive.google.com/file/d/1jBgL5vev4Lz-xu-ZuMgilREAmmAZTBcC/view?usp=sharing"
+    },
+    {
+        "song_name": "Routing",
+        "song_artist": "Camellia",
+        "creator": "KnightC0re",
+        "stars": "10",
+        "bpm": "144",
+        "dl": "https://drive.google.com/file/d/1KHEVNAxda7h-lKYeDe7eeOEN1nLc83jQ/view?usp=sharing"
+    },
+    {
+        "song_name": "Routing (Guitar Cover)",
+        "song_artist": "NaJvis Uni",
+        "creator": "KnightC0re",
+        "stars": "10",
+        "bpm": "144",
+        "dl": "https://drive.google.com/file/d/1Cqnbc30Stj8F9ffPRJmUWUOtjXB9Afrh/view?usp=sharing"
+    },
+    {
+        "song_name": "The Thought Of Us",
+        "song_artist": "Eddy Chen (TwoSetViolin)",
+        "creator": "Raindp",
+        "Length": "2:13",
+        "stars": "3",
+        "bpm": "110",
+        "dl": "https://drive.google.com/file/d/1Dye0kQAlGU8V70ozAk4r-dVZzc-z4eR4/view?usp=sharing"
+    },
+    {
+        "song_name": "The Big Black",
+        "song_artist": "The Quick Brown Fox",
+        "creator": "Oatmealy",
+        "stars": "6",
+        "bpm": "180",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033729002013216828/THEBIGBLACK.zip"
+    },
+    {
+        "song_name": "Spider-Man 2: The Game - Pizza Theme",
+        "song_artist": "Luigi Denza",
+        "creator": "Mirko_Oder_Okrim",
+        "stars": "7",
+        "bpm": "146",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033760752709947492/spiderman.7z"
+    },
+    {
+        "song_name": "Fresh",
+        "song_artist": "Friday Night Funkin'",
+        "creator": "JessidentEvil",
+        "stars": "5",
+        "bpm": "120",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033774467689754774/Fresh.rar"
+    },
+    {
+        "song_name": "Brain Power",
+        "song_artist": "NOMA",
+        "creator": "Plushel",
+        "stars": "7",
+        "bpm": "170",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033799278704992276/brainpower.zip"
+    },
+    {
+        "song_name": "Heaven and Hell aka Super Hyper Can Can",
+        "song_artist": "Mutsuhiko Izumi / Jacques Offenbach",
+        "creator": "Qsr711",
+        "stars": "10",
+        "bpm": "195",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033809130600804372/Heaven-And-Hell.zip"
+    },
+    {
+        "song_name": "One Summer's Day",
+        "song_artist": "Joe Hisaishi",
+        "creator": "aRVin",
+        "stars": "6",
+        "bpm": "79",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033810512208732221/One_Summers_Day.zip"
+    },
+    {
+        "song_name": "Eat It Up Worms Hero",
+        "song_artist": "Cardiacs",
+        "creator": "Eefano",
+        "stars": "8",
+        "bpm": "303",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033815090828419113/Eat_it_up_Worrms_Hero.zip"
+    },
+    {
+        "song_name": "Ame(B)",
+        "song_artist": "Sakanaction",
+        "creator": "geshusbakagenitzmironlon4201669",
+        "Length": "3:34",
+        "stars": "6",
+        "bpm": "130",
+        "dl": "https://drive.google.com/file/d/1rno500Lxo_UXuxO62OTIUGsU7cS-IHNd/view?usp=sharing"
+    },
+    {
+        "song_name": "Tokyo Shandy Rendezvous",
+        "song_artist": "MAISONdes, 花譜, ツミキ",
+        "creator": "geshusbakagenitzmironlon4201669",
+        "Length": "1:31",
+        "stars": "8",
+        "bpm": "137",
+        "dl": "https://drive.google.com/file/d/1P5-XzKogFqJIK_6ymfbg2Xji6umcC0Mf/view?usp=sharing"
+    },
+    {
+        "song_name": "Clerix Beast - Bloodborne",
+        "song_artist": "Tsukasa Saitoh",
+        "creator": "Gloomhonk",
+        "stars": "4",
+        "bpm": "140",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033829786243571712/ClericBeast.zip"
+    },
+    {
+        "song_name": "Keyboard Cat",
+        "song_artist": "Fatso",
+        "creator": "Mirko_Oder_Okrim",
+        "stars": "2",
+        "bpm": "188",
+        "dl": "https://drive.google.com/file/d/1P-_A_t8LwFg54yRjbQOKCatUvjXYGh9X/view?usp=sharing"
+    },
+    {
+        "song_name": "Hey Ya!",
+        "song_artist": "OutKast",
+        "creator": "RedCrowNose",
+        "stars": "7",
+        "bpm": "160",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033853807064522802/Hey_Ya.zip"
+    },
+    {
+        "song_name": "East Bay",
+        "song_artist": "Snarky Puppy",
+        "creator": "iiPanCake",
+        "stars": "6",
+        "bpm": "81",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033854224976588923/EastBay.zip"
+    },
+    {
+        "song_name": "Wellerman (Full Band)",
+        "song_artist": "Plamen Vasilev (Cover of Nathan Evans)",
+        "creator": "PauX",
+        "stars": "6",
+        "bpm": "96",
+        "dl": "https://drive.google.com/file/d/1y60cPGj-ytRdJ_BIPWojVmhCH5oeeW-A/view?usp=sharing"
+    },
+    {
+        "song_name": "Bring Me To Life",
+        "song_artist": "Evanescence",
+        "creator": "QwertyGhosty",
+        "stars": "6",
+        "bpm": "95",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033876332318314497/KBI-WAKEMEUP.zip"
+    },
+    {
+        "song_name": "Decretum",
+        "song_artist": "Yuki Kajiura",
+        "creator": "Sharktoraptor",
+        "stars": "5",
+        "bpm": "160",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033880118466187264/Decretum.zip"
+    },
+    {
+        "song_name": "Papers Please: Theme Song (2)",
+        "song_artist": "Lucas Pope",
+        "creator": "Matt The Lad",
+        "stars": "5",
+        "bpm": "120",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033880433294839888/Papers_Please_Alternative.zip"
+    },
+    {
+        "song_name": "I Am... All of Me (Cover)",
+        "song_artist": "Victor McKnight, Noah McKnight, Penny Parker",
+        "creator": "Sharktoraptor",
+        "stars": "3",
+        "bpm": "95",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033880909998465054/Shadow.zip"
+    },
+    {
+        "song_name": "Gunslinging Bird (Trombone Solo)",
+        "song_artist": "Mingus Big Band",
+        "creator": "Squirt",
+        "stars": "5",
+        "bpm": "165",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033916190747271188/gunslingin.zip"
+    },
+    {
+        "song_name": "Wii Fit Plus - Results (Victory)",
+        "song_artist": "Toru Minegishi",
+        "creator": "Tony Williams",
+        "stars": "5",
+        "bpm": "121",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033917629125120040/ResultsVictory.zip"
+    },
+    {
+        "song_name": "Caramelldansen",
+        "song_artist": "Caramell",
+        "creator": "Znedd1",
+        "stars": "6",
+        "bpm": "165",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033917915935805521/Caramelldansen.zip"
+    },
+    {
+        "song_name": "Dragonborn",
+        "song_artist": "Jeremy Soule",
+        "creator": "aRVin",
+        "stars": "7",
+        "bpm": "100",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033923558012899389/Dragonborn.zip"
+    },
+    {
+        "song_name": "Astronomia (Coffin Dance)",
+        "song_artist": "Vicetone & Tony Igy",
+        "creator": "Emmett",
+        "stars": "6",
+        "bpm": "126",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033925737046085673/astronomia.zip"
+    },
+    {
+        "song_name": "Ocean Avenue",
+        "song_artist": "Yellowcard",
+        "creator": "Branflakes",
+        "stars": "5",
+        "bpm": "174",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033943536128774214/Yellowcard_Ocean_Avenue.zip"
+    },
+    {
+        "song_name": "Soul of Cinder - Dark Souls III",
+        "song_artist": "Yuka Kitamura",
+        "creator": "Tinbum",
+        "stars": "3",
+        "bpm": "135",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033943851859193917/soulofcinder.zip"
+    },
+    {
+        "song_name": "Neverita",
+        "song_artist": "Bad Bunny",
+        "creator": "Branflakes",
+        "stars": "3",
+        "bpm": "120",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033946003021234186/neveritabadbunny.zip"
     },
     {
         "song_name": "Can You Feel My Heart (GigaChad Theme)",
         "song_artist": "Bring Me The Horizon",
         "creator": "Headlessllama",
+        "stars": "7",
+        "bpm": "128",
         "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033956291124666408/Can_You_Feel_My_Heart.zip"
+    },
+    {
+        "song_name": "White Sedan",
+        "song_artist": "Patrick Star",
+        "creator": "Waffle Man",
+        "stars": "1",
+        "bpm": "120",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033962337272598589/WhiteSedan.zip"
+    },
+    {
+        "song_name": "Breaking Bad Main Theme",
+        "song_artist": "Dave Porter",
+        "creator": "Pugerrito",
+        "stars": "5",
+        "bpm": "120",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034027238238195722/breakingbad.zip"
+    },
+    {
+        "song_name": "National Park (Pokemon G/S/C)",
+        "song_artist": "Junichi Masuda",
+        "creator": "Microberry",
+        "stars": "5",
+        "bpm": "100",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034030886947147806/NationalPark.zip"
+    },
+    {
+        "song_name": "Stickerbush Symphony (Donkey Kong Country 2)",
+        "song_artist": "David Wise",
+        "creator": "Ophthalmologist",
+        "stars": "4",
+        "bpm": "98",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034051955208753153/sticker.zip"
+    },
+    {
+        "song_name": "To Zanarkand (FFX)",
+        "song_artist": "Nobuo Uemtsu",
+        "creator": "Shorty132471",
+        "stars": "3",
+        "bpm": "84",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034079737481527398/To_Zanarkand.zip"
+    },
+    {
+        "song_name": "All Star (2)",
+        "song_artist": "Smash Mouth",
+        "creator": "Palleuomo",
+        "stars": "7",
+        "bpm": "104",
+        "dl": "https://drive.google.com/file/d/1rDCCLNnPrnaaWgxys69EnyO23lIs5OYQ/view?usp=sharing"
+    },
+    {
+        "song_name": "Lachryma《Re:Queen’M》",
+        "song_artist": "Kaneko Chiharu",
+        "creator": "Kizuflux",
+        "stars": "9",
+        "bpm": "236",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034146158567772280/lachryma_easy.zip"
+    },
+    {
+        "song_name": "Saturday In The Park",
+        "song_artist": "Chicago",
+        "creator": "Sir Guy",
+        "stars": "5",
+        "bpm": "114",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034210026526613616/SaturdayInThePark.zip"
+    },
+    {
+        "song_name": "Gone Angels",
+        "song_artist": "Mili",
+        "creator": "Dino Dave",
+        "stars": "8",
+        "bpm": "130",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034228741758525521/Gone_Angels.zip"
+    },
+    {
+        "song_name": "Con te partirò",
+        "song_artist": "Andrea Bocelli",
+        "creator": "BruhBQueue",
+        "stars": "5",
+        "bpm": "106",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034240192917295194/conte.zip"
+    },
+    {
+        "song_name": "Tequilla!",
+        "song_artist": "The Champs",
+        "creator": "Tony Williams",
+        "stars": "10",
+        "bpm": "186",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034251433106735204/Tequila.zip"
+    },
+    {
+        "song_name": "It's Bugsnax!",
+        "song_artist": "Kero Kero Bonito",
+        "creator": "Znedd1",
+        "stars": "5",
+        "bpm": "108",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034254825292046386/Its_Bugsnax.zip"
+    },
+    {
+        "song_name": "Fiery Gun Hand",
+        "song_artist": "Cardiacs",
+        "creator": "eefano",
+        "stars": "6",
+        "bpm": "223",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034259034846539857/Fiery_Gun_Hand.zip"
+    },
+    {
+        "song_name": "Silhouette",
+        "song_artist": "Kana-Boon",
+        "creator": "Elirox",
+        "stars": "7",
+        "bpm": "183",
+        "dl": "https://www.mediafire.com/file/sujkyn9hykwat9i/silhouette.zip/file"
+    },
+    {
+        "song_name": "Pokemon Theme (Full Version)",
+        "song_artist": "Pokemon",
+        "creator": "Sharktoraptor",
+        "stars": "8",
+        "bpm": "145",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034310516270702633/Pokemon.zip"
+    },
+    {
+        "song_name": "Ghost Castle",
+        "song_artist": "Louie Zong (feat. Jeff Ball)",
+        "creator": "slaw",
+        "stars": "3",
+        "bpm": "98",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034331525598162954/GhostCastle.zip"
+    },
+    {
+        "song_name": "Some Skunk Funk",
+        "song_artist": "Michael Brecker",
+        "creator": "squirt",
+        "stars": "6",
+        "bpm": "160",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034332793091661854/skunk.zip"
+    },
+    {
+        "song_name": "The Avengers Theme",
+        "song_artist": "Alan Silvestri",
+        "creator": "Nyht",
+        "stars": "6",
+        "bpm": "120",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034401587453497344/The_Avengers_Theme.zip"
+    },
+    {
+        "song_name": "Lift Me From The Ground (Phuture Noize Remix)",
+        "song_artist": "San Holo",
+        "creator": "campins",
+        "stars": "3",
+        "bpm": "155",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034405646658973756/LiftMeFromTheGround.zip"
+    },
+    {
+        "song_name": "Happier Than Ever",
+        "song_artist": "Billie Eilish",
+        "creator": "microberry",
+        "stars": "5",
+        "bpm": "81",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034443438294319124/HappierThanEver.zip"
+    },
+    {
+        "song_name": "Monster House",
+        "song_artist": "Joe",
+        "creator": "StaticR",
+        "stars": "8",
+        "bpm": "132",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034460810749165578/monsterhousebutmessedup.zip"
+    },
+    {
+        "song_name": "Bên Trên Tầng Lầu",
+        "song_artist": "Tăng Duy Tân",
+        "creator": "satoru",
+        "stars": "5",
+        "bpm": "120",
+        "dl": "https://drive.google.com/file/d/14hPT93sqi-kWwFJwprFI8qJ_ngD_uNgd/view?usp=sharing"
+    },
+    {
+        "song_name": "Underverse - Overwrite (Trombone Champ Remix)",
+        "song_artist": "NyxTheShield",
+        "creator": "NyxTheShield",
+        "stars": "8",
+        "bpm": "120",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034468138181464179/Overwrite_Trombone_Champ_Remix_by_NyxTheShield.zip"
+    },
+    {
+        "song_name": "Beethoven Virus",
+        "song_artist": "BanYa",
+        "creator": "Bhc",
+        "stars": "10",
+        "bpm": "156",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034541372444778586/Beethoven_Virus.zip"
+    },
+    {
+        "song_name": "Chemical Plant Zone (Sonic 2)",
+        "song_artist": "Masato Nakamura",
+        "creator": "Gloomhonk",
+        "stars": "9",
+        "bpm": "139",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034546600372092948/ChemicalPlantZoneVideo.zip"
+    },
+    {
+        "song_name": "Bob-Omb Battlefield",
+        "song_artist": "Super Mario 64",
+        "creator": "JessidentEvil",
+        "stars": "6",
+        "bpm": "120",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034555588987863070/Bob-Omb_Battlefield.zip"
+    },
+    {
+        "song_name": "Jungle (In-Game Version) - Terraria",
+        "song_artist": "Silvagunner",
+        "creator": "Haihatu",
+        "stars": "4",
+        "bpm": "200",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034582591484993596/JungleIGVTerraria.zip"
+    },
+    {
+        "song_name": "They Might Be Giants",
+        "song_artist": "Where Your Eyes Don't Go",
+        "creator": "eefano",
+        "stars": "5",
+        "bpm": "109",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034584865603059742/Where_Your_Eyes_Dont_Go.zip"
+    },
+    {
+        "song_name": "Stygian I - From Tumultuous Heavens... (Descended Forth The Ceaseless Darkness)",
+        "song_artist": "Atramentus",
+        "creator": "Deinonychus",
+        "Length": "16:13",
+        "stars": "2",
+        "bpm": "70",
+        "dl": "https://cdn.discordapp.com/attachments/1032088127168327761/1034605881544933376/Stygian.zip"
+    },
+    {
+        "song_name": "Ghost + Guest",
+        "song_artist": "Louie Zong",
+        "creator": "slaw",
+        "stars": "4",
+        "bpm": "160",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034611104351002644/GhostGuest.zip"
+    },
+    {
+        "song_name": "Close Quarters - RuneScape",
+        "song_artist": "Ian Taylor",
+        "creator": "CrispyKevin",
+        "stars": "6",
+        "bpm": "150",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034621232513040475/Close_Quarters.zip"
+    },
+    {
+        "song_name": "Metallic Madness (Act 2) - Sonic Mania",
+        "song_artist": "Tee Lopes",
+        "creator": "Pyro",
+        "stars": "7",
+        "bpm": "143",
+        "dl": "https://drive.google.com/file/d/1k6RNTlQ-HDNuSmfmoKyfz-utBSskkMVw/view?usp=sharing"
+    },
+    {
+        "song_name": "Neverita (2)",
+        "song_artist": "Bad Bunny",
+        "creator": "Goodfrenchfries",
+        "stars": "5",
+        "bpm": "122",
+        "dl": "https://drive.google.com/file/d/1CjvbPvp9GsZhxZMxMw0-SG8AlK2drUcM/view?usp=sharing"
+    },
+    {
+        "song_name": "Roundabout",
+        "song_artist": "Yes",
+        "creator": "aRVin",
+        "stars": "10",
+        "bpm": "135",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034686751802929222/Roundabout.zip"
+    },
+    {
+        "song_name": "Vandalize (Sonic Frontiers)",
+        "song_artist": "One Ok Rock",
+        "creator": "Sharktoraptor",
+        "stars": "4",
+        "bpm": "134",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034696219152367686/Vandalize.zip"
+    },
+    {
+        "song_name": "A Thousand Miles",
+        "song_artist": "Vanessa Carlton",
+        "creator": "Machspeed",
+        "stars": "4",
+        "bpm": "95",
+        "dl": "https://drive.google.com/file/d/1QzeYzYtI8fcleAzCGxjIVFukg-wU8Us9/view?usp=sharing"
+    },
+    {
+        "song_name": "Radiance - Hollow Knight",
+        "song_artist": "Christopher Larkin",
+        "creator": "Henry Zhou's Textbook",
+        "stars": "7",
+        "bpm": "120",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034842187457904740/Radiance.zip"
+    },
+    {
+        "song_name": "Самая Самая (Samaya Samaya)",
+        "song_artist": "Егор Крид (Egor Kreed)",
+        "creator": "Queen 228",
+        "stars": "5",
+        "bpm": "126",
+        "dl": "https://drive.google.com/file/d/1CDIWlbFwbrMWWD331yBay1tnReEqy8s8/view?usp=sharing"
+    },
+    {
+        "song_name": "Yerushalayim",
+        "song_artist": "Yerachmiel Begun & The Miami Boys Choir",
+        "creator": "Lucas",
+        "stars": "4",
+        "bpm": "175",
+        "dl": "https://drive.google.com/file/d/1E8GLYuyw8S2zNxPOstqTr4Ds8Hm-eMir/view?usp=sharing"
+    },
+    {
+        "song_name": "Shin Takarajima",
+        "song_artist": "Sakanaction",
+        "creator": "geshusbakagenitzmironlon4201669",
+        "Length": "4:54",
+        "stars": "7",
+        "bpm": "158",
+        "dl": "https://drive.google.com/file/d/15hPSXNcQBQ3W74tI49swuAyOWEWVRLBE/view?usp=sharing"
+    },
+    {
+        "song_name": "Stereo Love",
+        "song_artist": "Edward Maya",
+        "creator": "Queen 228",
+        "stars": "4",
+        "bpm": "127",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034943931131109406/Stereo_Love.zip"
+    },
+    {
+        "song_name": "Country Roads",
+        "song_artist": "John Denver",
+        "creator": "Sharktoraptor",
+        "stars": "3",
+        "bpm": "83",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034948341026537482/Country_Roads.zip"
+    },
+    {
+        "song_name": "Island In The Sun",
+        "song_artist": "Weezer",
+        "creator": "SighKick",
+        "stars": "3",
+        "bpm": "115",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034955830795190272/IslandSun.zip"
+    },
+    {
+        "song_name": "Ghost Cowboys",
+        "song_artist": "Louie Zong",
+        "creator": "Slaw",
+        "stars": "3",
+        "bpm": "120",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034961507072618577/GhostCowboys.zip"
+    },
+    {
+        "song_name": "Ghost Rule",
+        "song_artist": "Deco*27",
+        "creator": "April",
+        "stars": "7",
+        "bpm": "210",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1034969363310182450/ghostrule.zip"
+    },
+    {
+        "song_name": "Rocky Top",
+        "song_artist": "Pride Of The Southland",
+        "creator": "TStorm",
+        "stars": "5",
+        "bpm": "149",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035010200962342922/RockyTop.zip"
+    },
+    {
+        "song_name": "Cold As Ice",
+        "song_artist": "Foreigner",
+        "creator": "BruhBQueue",
+        "stars": "6",
+        "bpm": "126",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035016809268662383/cold.zip"
+    },
+    {
+        "song_name": "What Should We Do With A Drunken Sailor?",
+        "creator": "QwertyGhosty",
+        "stars": "4",
+        "bpm": "112",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035019208918048858/KBI-UPSHERISES.zip"
+    },
+    {
+        "song_name": "Rumbling, The (TV Size)",
+        "song_artist": "SiM",
+        "creator": "Nyht",
+        "stars": "6",
+        "bpm": "74",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035028102373458011/The_Rumbling.zip"
+    },
+    {
+        "song_name": "Dolphin Shoals (MK8) (2)",
+        "song_artist": "Atsuko Asahi",
+        "creator": "Lucas",
+        "stars": "9",
+        "bpm": "138",
+        "dl": "https://drive.google.com/file/d/1PH1bvtYs18ZN3WLq-9B_CivWEBdE4HMu/view?usp=sharing"
+    },
+    {
+        "song_name": "Akuma No Ko (TV Size)",
+        "song_artist": "Ai Higuchi",
+        "creator": "Nyht",
+        "stars": "7",
+        "bpm": "180",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035062354041393252/AkumaNoKo.zip"
+    },
+    {
+        "song_name": "K-Fee Car Commercial",
+        "song_artist": "K-Fee",
+        "creator": "Nyht",
+        "stars": "1",
+        "bpm": "180",
+        "dl": "https://cdn.discordapp.com/attachments/1035084237533085757/1035084374464544788/TheCar.zip"
+    },
+    {
+        "song_name": "NEXT COLOUR PLANET",
+        "song_artist": "Suisei Hoshimachi",
+        "creator": "Daydream",
+        "stars": "8",
+        "bpm": "132",
+        "dl": "https://drive.google.com/drive/folders/1jh5fIoVRTGs9K9Hc9ibHMgCGDpMM3dWq?usp=sharing"
+    },
+    {
+        "song_name": "FFX Battle Theme",
+        "song_artist": "Nobuo Uematsu",
+        "creator": "Shorty132471",
+        "stars": "4",
+        "bpm": "95",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035156016028983296/FFX_Battle_Theme.zip"
+    },
+    {
+        "song_name": "Snow Halation But Shawty's Like A Melody In My Head",
+        "song_artist": "DaymanOurSavior",
+        "creator": "Nyht",
+        "stars": "6",
+        "bpm": "170",
+        "dl": "https://drive.google.com/file/d/1yS9JEc5keFIVJcE8DLP4h0tYcXJxgxL_/view?usp=sharing"
+    },
+    {
+        "song_name": "Soviet March - RA3",
+        "song_artist": "James Hannigan/The Skywalker Symphony Chorus",
+        "creator": "SilverFoxV933",
+        "stars": "8",
+        "bpm": "122",
+        "dl": "https://drive.google.com/file/d/1aTJq9Jcpvr-n-1N6uL-NxRu04BIrW5AX/view?usp=sharing"
+    },
+    {
+        "song_name": "US Loading - Battlefield 2",
+        "song_artist": "Fredrik Englund; David Tallroth; Jonas Östholm",
+        "creator": "SilverFoxV933",
+        "stars": "5",
+        "bpm": "180",
+        "dl": "https://drive.google.com/file/d/10wUZSwcYICCf_O0Fi1Jrq_LW1uYu-QQx/view?usp=sharing"
+    },
+    {
+        "song_name": "Epic Sax Guy",
+        "song_artist": "SunStroke Project & Olia Tira",
+        "creator": "Palleuomo",
+        "stars": "9",
+        "bpm": "130",
+        "dl": "https://drive.google.com/file/d/1w5iHqB7a3235vwr7rwEdK6N0LmbrQigs/view?usp=sharing"
+    },
+    {
+        "song_name": "Anything I Can't Eat",
+        "song_artist": "Cardiacs",
+        "creator": "eefano",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035294919474028706/Anything_I_Cant_Eat.zip"
+    },
+    {
+        "song_name": "\"Revenge\" - A Minecraft Parody of Usher's DJ Got Us Fallin' In Love",
+        "song_artist": "CaptainSparklez & TryHardNinja",
+        "creator": "SighKick",
+        "stars": "6",
+        "bpm": "120",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035295637169778718/creeperawman.zip"
+    },
+    {
+        "song_name": "The Fantastic Legend of Tohno - Touhou 7: PCB Stage 2 Theme",
+        "song_artist": "ZUN",
+        "creator": "CrispyKevin",
+        "stars": "7",
+        "bpm": "141",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035317992914944080/Tohno.zip"
+    },
+    {
+        "song_name": "Test Drive - How To Train Your Dragon",
+        "song_artist": "John Powell",
+        "creator": "Sharktoraptor",
+        "stars": "4",
+        "bpm": "111",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035334038308802642/Test_Drive.zip"
+    },
+    {
+        "song_name": "I Really Really Really Like This Image",
+        "song_artist": "Hot Dad",
+        "creator": "NTSpook Azazel",
+        "stars": "6",
+        "bpm": "140",
+        "dl": "https://cdn.discordapp.com/attachments/1035336108373979196/1035336172702015528/ThisImage.zip"
     }
 ]
