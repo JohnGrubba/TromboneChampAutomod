@@ -5,21 +5,31 @@ html {
     height: 100%;
 }
 
-img {
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    padding: 20px;
+body {
+    margin: 0;
+}
+
+html::-webkit-scrollbar {
+    display: none;
+}
+
+p {
+    font-size: 1.2em;
+    color: rgb(0, 0, 0);
 }
 
 ul {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
     list-style: none;
-    display: flex;
-    flex-direction: column;
+    width: min(100%, 1000px);
 }
 
 li {
     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 a.id {
@@ -36,6 +46,7 @@ a.name {
     color: black;
     font-size: 20px;
     margin: 10px;
+    width: 100%;
 }
 
 input {
@@ -49,4 +60,13 @@ input {
 
 .center {
     text-align: center;
+    border-bottom: black 1px solid;
+}
+
+a#dl {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin: 10px;
+    font-weight: bold;
 }

@@ -7,7 +7,7 @@ fetch("https://api.github.com/repos/JohnGrubba/TromboneChampAutomod/commits/main
                 out = "";
                 id = 0;
                 data.forEach(element => {
-                    out += "<li><a class='id'>" + id + "</a><a class='name'>" + element.song_name + "</a></li>"
+                    out += "<li><a class='id'>" + id + "</a><a class='name'>" + element.song_name + "</a><a id='dl' href='" + element.dl + "'>Download</a></li>"
                     id++;
                 });
                 document.getElementById("songs").innerHTML = out;
