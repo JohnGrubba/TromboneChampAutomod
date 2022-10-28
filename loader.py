@@ -4,7 +4,7 @@ from io import BytesIO
 from zipfile import ZipFile
 import json
 import os
-from webbrowser import open
+import webbrowser
 
 hdr = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11",
@@ -77,10 +77,11 @@ print(
 input()
 os.system("cls" if os.name == "nt" else "clear")
 print("Select a Song to Download")
+webbrowser.open("https://johngrubba.github.io/TromboneChampAutomod/")
 while True:
-    open("")
     indx = int(input("Enter Number of Song: "))
     song = songs[indx]
+    print("Downloading " + song["song_name"])
     download_and_unzip(song["dl"], directory + "\BepInEx\CustomSongs")
     os.system("cls" if os.name == "nt" else "clear")
     print("Song Downloaded. Select another one or close this Terminal!")
