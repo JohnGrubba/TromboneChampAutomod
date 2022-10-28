@@ -22,5 +22,17 @@
         "song_artist": "Kazumi Totaka",
         "creator": "Chromaticspace",
         "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030552044353884211/mii.zip"
-    }
+    },
+    {
+        "song_name": "Wii Sports Theme",
+        "song_artist": "Kazumi Totaka",
+        "creator": "Plushel",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1030724053293600888/wiisports.zip"
+    },
+    {
+        "song_name": "Kahoot Theme Song",
+        "song_artist": "Alf Inge Wang",
+        "creator": "Kainxjm",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031293456364077177/Kahoot.zip"
+    },
 ]
