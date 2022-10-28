@@ -1,14 +1,17 @@
-fetch("https://raw.githubusercontent.com/JohnGrubba/TromboneChampAutomod/main/songs.json")
-    .then((response) => response.json())
+fetch("https://api.github.com/repos/JohnGrubba/TromboneChampAutomod/commits/main").then((response) => response.json())
     .then((data) => {
-        console.log(data);
-        out = "";
-        id = 0;
-        data.forEach(element => {
-            out += "<li><a class='id'>" + id + "</a><a class='name'>" + element.song_name + "</a></li>"
-            id++;
-        });
-        document.getElementById("songs").innerHTML = out;
+        fetch("https://raw.githubusercontent.com/JohnGrubba/TromboneChampAutomod/" + data.sha + "/songs.json")
+            .then((response) => response.json())
+            .then((data) => {
+                console.log(data);
+                out = "";
+                id = 0;
+                data.forEach(element => {
+                    out += "<li><a class='id'>" + id + "</a><a class='name'>" + element.song_name + "</a></li>"
+                    id++;
+                });
+                document.getElementById("songs").innerHTML = out;
+            });
     });
 
 function search() {
