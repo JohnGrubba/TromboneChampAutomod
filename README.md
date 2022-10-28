@@ -2,9 +2,9 @@
 This is a script, to quickly get Custom Songs into TromboneChamp
 Still in Developement / Not all Songs will work
 
-## Contribute Songs
+## Contribute Charts
 - Open a Pull Request and edit the songs.json
-- PLEASE add your songs :)
+- PLEASE add your Charts :)
 
 ## Usage
 ### Executing Binary
