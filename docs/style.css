@@ -1,3 +1,8 @@
+html {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: rgb(161, 161, 161);
+}
+
 img {
     position: fixed;
     bottom: 0;
@@ -16,6 +21,7 @@ li {
 }
 
 a.id {
+    width: 40px;
     text-decoration: none;
     color: black;
     font-size: 20px;
@@ -32,9 +38,13 @@ a.name {
 
 input {
     margin: 10px;
-    width: 200px;
+    width: 50%;
     height: 30px;
     border-radius: 5px;
     border: 1px solid black;
     font-size: 20px;
+}
+
+.center {
+    text-align: center;
 }
