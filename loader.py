@@ -41,13 +41,38 @@ songs = json.load(
         "https://raw.githubusercontent.com/JohnGrubba/TromboneChampAutomod/main/songs.json"
     )
 )
-
 dl_url = [i for i in bpnx["assets"] if "x64" in i["name"]][0]["browser_download_url"]
 
 hkey = winreg.OpenKey(winreg.HKEY_LOCAL_MACHINE, "SOFTWARE\WOW6432Node\Valve\Steam")
 steam_path = winreg.QueryValueEx(hkey, "InstallPath")[0]
 
 directory = steam_path + "\steamapps\common\TromboneChamp"
+
+
+def custom_songs():
+    os.system("cls" if os.name == "nt" else "clear")
+    print("Select a Song to Download")
+    webbrowser.open("https://johngrubba.github.io/TromboneChampAutomod/")
+    while True:
+        indx = int(input("Enter Number of Song: "))
+        song = songs[indx]
+        print("Downloading " + song["song_name"])
+        download_and_unzip(song["dl"], directory + "\BepInEx\CustomSongs")
+        os.system("cls" if os.name == "nt" else "clear")
+        print("Song Downloaded. Select another one or close this Terminal!")
+
+
+os.system("cls" if os.name == "nt" else "clear")
+dec = int(
+    input(
+        """Custom Chart Loader and Mod Installer by JJTV
+1) Download and Install TrombLoader
+2) Download and Install Custom Songs (requires TrombLoader)
+"""
+    )
+)
+if dec == 2:
+    custom_songs()
 print("Steam Installation Directory: " + directory)
 print("Downloading BepInEx...")
 download_and_unzip(dl_url, directory)
@@ -72,16 +97,6 @@ while True:
     break
 print("Start Trombone Champ again and exit it.")
 print(
-    "Then you are ready to download Songs! Just hit enter to get all known Custom Songs."
+    "Then you are ready to download Songs! Just reopen the App and select: Download Songs"
 )
 input()
-os.system("cls" if os.name == "nt" else "clear")
-print("Select a Song to Download")
-webbrowser.open("https://johngrubba.github.io/TromboneChampAutomod/")
-while True:
-    indx = int(input("Enter Number of Song: "))
-    song = songs[indx]
-    print("Downloading " + song["song_name"])
-    download_and_unzip(song["dl"], directory + "\BepInEx\CustomSongs")
-    os.system("cls" if os.name == "nt" else "clear")
-    print("Song Downloaded. Select another one or close this Terminal!")
