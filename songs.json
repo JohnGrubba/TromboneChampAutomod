@@ -40,5 +40,41 @@
         "song_artist": "Koji Kondo",
         "creator": "Bhc",
         "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031315893789139054/Slider.zip"
+    },
+    {
+        "song_name": "Sweden",
+        "song_artist": "C418",
+        "creator": "aRVin",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1031281923382845471/Sweden.zip"
+    },
+    {
+        "song_name": "Baka Mitai (Karaoke)",
+        "song_artist": "Mitsuharu Fukuyama",
+        "creator": "VorgunTheBeta",
+        "dl": "https://cdn.discordapp.com/attachments/1031388156370620486/1032452281729298502/BakaMitai.zip"
+    },
+    {
+        "song_name": "Better Call Saul Main Theme",
+        "song_artist": "Little Barrie",
+        "creator": "Atlas Fox",
+        "dl": "https://cdn.discordapp.com/attachments/1035282998943297647/1035514163021230130/bettercallsnaul.zip"
+    },
+    {
+        "song_name": "Coconut Mall (Mario Kart Wii)",
+        "song_artist": "Asuka Ota/Ryo Nagamatsu",
+        "creator": "Eski",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032448519291809792/COCONUTMALLMID.zip"
+    },
+    {
+        "song_name": "Sonic The Hedgehog - Green Hill Zone",
+        "song_artist": "Masato Nakamura",
+        "creator": "Deinonychus",
+        "dl": "https://cdn.discordapp.com/attachments/1032088127168327761/1032425522145263706/GreenHillZone.zip"
+    },
+    {
+        "song_name": "Never Gonna Give You Up",
+        "song_artist": "Rick Astley",
+        "creator": "Goodfrenchfries",
+        "dl": "https://cdn.discordapp.com/attachments/1012274625859817503/1035517310208835686/Rick_Astley_-_Never_Gonna_Give_You_Up.zip"
     }
 ]
