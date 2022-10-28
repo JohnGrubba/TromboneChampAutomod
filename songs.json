@@ -76,5 +76,23 @@
         "song_artist": "Rick Astley",
         "creator": "Goodfrenchfries",
         "dl": "https://cdn.discordapp.com/attachments/1012274625859817503/1035517310208835686/Rick_Astley_-_Never_Gonna_Give_You_Up.zip"
+    },
+    {
+        "song_name": "Among Us Drip",
+        "song_artist": "Leonz",
+        "creator": "_Rodefeld571",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1032849810790809650/Among_Us_Drip.zip"
+    },
+    {
+        "song_name": "Super Mario Bros Theme",
+        "song_artist": "Koji Kondo",
+        "creator": "RubenBML",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033449741524156597/SuperMarioBros.zip"
+    },
+    {
+        "song_name": "Can You Feel My Heart (GigaChad Theme)",
+        "song_artist": "Bring Me The Horizon",
+        "creator": "Headlessllama",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1033956291124666408/Can_You_Feel_My_Heart.zip"
     }
 ]
