@@ -1,0 +1,40 @@
+img {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 20px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+li {
+    display: flex;
+}
+
+a.id {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+a.name {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin: 10px;
+}
+
+input {
+    margin: 10px;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-size: 20px;
+}
