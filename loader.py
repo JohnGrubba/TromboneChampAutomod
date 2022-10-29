@@ -69,8 +69,7 @@ if input("Is this the Right Directory? (yes, no): ") == "no":
         """Please Input your Directory
 If Installed with Steam should look something like this: ......\Steam\steamapps\common\TromboneChamp
 Otherwise make sure in the Directory you Specify, lies the .exe of TromboneChamp
-Directory: 
-    """
+Directory: """
     )
 os.system("cls" if os.name == "nt" else "clear")
 dec = int(
