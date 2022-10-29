@@ -63,6 +63,16 @@ def custom_songs():
 
 
 os.system("cls" if os.name == "nt" else "clear")
+print("Steam Installation Directory: " + directory)
+if input("Is this the Right Directory? (yes, no): ") == "no":
+    directory = input(
+        """Please Input your Directory
+If Installed with Steam should look something like this: ......\Steam\steamapps\common\TromboneChamp
+Otherwise make sure in the Directory you Specify, lies the .exe of TromboneChamp
+Directory: 
+    """
+    )
+os.system("cls" if os.name == "nt" else "clear")
 dec = int(
     input(
         """Custom Chart Loader and Mod Installer by JJTV
@@ -73,7 +83,7 @@ dec = int(
 )
 if dec == 2:
     custom_songs()
-print("Steam Installation Directory: " + directory)
+
 print("Downloading BepInEx...")
 download_and_unzip(dl_url, directory)
 print(
