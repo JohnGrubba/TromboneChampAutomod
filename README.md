@@ -1,6 +1,7 @@
 # TromboneChampAutomod
 This is a script, to quickly get Custom Songs into TromboneChamp
-Still in Developement / Not all Songs will work
+Still in Developement
+Song Explorer: https://johngrubba.github.io/TromboneChampAutomod/
 
 ## Contribute Charts
 - Open a Pull Request and edit the songs.json
@@ -17,4 +18,4 @@ Still in Developement / Not all Songs will work
 - Get Steam Installation Directory
 - Download and Install BepInEx
 - Download and Install TrombLoader
-- Download and Extract Custom Songs
+- Download and Extract Custom Charts from the Chart Explorer
