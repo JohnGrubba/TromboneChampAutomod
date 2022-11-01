@@ -3080,5 +3080,21 @@
         "stars": "7",
         "bpm": "107",
         "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035467149625536512/Monster_Hunter.zip"
+    },
+    {
+        "song_name": "Don't Mine At Night",
+        "song_artist": "Bebopvox YOGSCAST",
+        "creator": "Nyht",
+        "stars": "5",
+        "bpm": "126",
+        "dl": "https://drive.google.com/file/d/1rnyNEHvOwxh5hBX6VzftZFaj22l_oXYS/view?usp=sharing"
+    },
+    {
+        "song_name": "The Good, The Bad and The Ugly",
+        "song_artist": "Ennio Morricone",
+        "creator": "Skogsy",
+        "stars": "5",
+        "bpm": "124",
+        "dl": "https://drive.google.com/file/d/1D9cAmTfgofGPZSqRQIlR28k294dHEaoG/view?usp=share_link"
     }
 ]
