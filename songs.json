@@ -3050,11 +3050,19 @@
         "dl": "https://www.google.com/url?q=https://cdn.discordapp.com/attachments/1024214552151347231/1035412160194551818/CheckJuliet.zip&sa=D&source=editors&ust=1667318307340993&usg=AOvVaw0XzP2X0VYMEYX2pLnQdRaq"
     },
     {
-         "song_name": "Digimon Theme",
+        "song_name": "Digimon Theme",
         "song_artist": "Paul Gordon",
         "creator": "Shorty132471",
         "stars": "4",
         "bpm": "115",
         "dl": "https://cdn.discordapp.com/attachments/1035447451915653130/1035447600289157150/TheOnePieceisReal.zip"
     },
+    {
+        "song_name": "The One Piece Is Real",
+        "song_artist": "Bluekingmigs",
+        "creator": "Nyht",
+        "stars": "3",
+        "bpm": "88",
+        "dl": "https://cdn.discordapp.com/attachments/1035447451915653130/1035447600289157150/TheOnePieceisReal.zip"
+    }
 ]
