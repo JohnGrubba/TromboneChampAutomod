@@ -3064,5 +3064,21 @@
         "stars": "3",
         "bpm": "88",
         "dl": "https://cdn.discordapp.com/attachments/1035447451915653130/1035447600289157150/TheOnePieceisReal.zip"
+    },
+    {
+        "song_name": "Fortnite Battle Pass",
+        "song_artist": "Salem Ilese and Abdul Cisse",
+        "creator": "Nyht",
+        "stars": "3",
+        "bpm": "88",
+        "dl": "https://cdn.discordapp.com/attachments/1035462588185727028/1035462743307866172/FortniteBattlePass.zip"
+    },
+    {
+        "song_name": "Monster Hunter - Proof Of A Hero",
+        "song_artist": "Masato Kouda",
+        "creator": "Soosh",
+        "stars": "7",
+        "bpm": "107",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035467149625536512/Monster_Hunter.zip"
     }
 ]
