@@ -3096,5 +3096,22 @@
         "stars": "5",
         "bpm": "124",
         "dl": "https://drive.google.com/u/0/uc?id=1D9cAmTfgofGPZSqRQIlR28k294dHEaoG&export=download&confirm=t"
+    },
+    {
+        "song_name": "Despacito",
+        "song_artist": "Luis Fosni Ft. Daddy Yankee",
+        "creator": "Nyht",
+        "stars": "7",
+        "bpm": "178",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035578708045606962/Despacito.zip"
+    },
+    {
+        "song_name": "Clash Of The Gods - Ultra Instinct",
+        "song_artist": "Norihito Sumitomo",
+        "creator": "BruhBQueue",
+        "stars": "4",
+        "bpm": "100",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035590882432401418/ultra.zip"
     }
+        
 ]
