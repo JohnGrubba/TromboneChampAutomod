@@ -3112,6 +3112,30 @@
         "stars": "4",
         "bpm": "100",
         "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035590882432401418/ultra.zip"
+    },
+    {
+        "song_name": "This Is Halloween",
+        "song_artist": "Danny Elfman",
+        "creator": "Samuran",
+        "stars": "7",
+        "bpm": "167",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035596360394739803/BigEnough.zip"
+    },
+    {
+        "song_name": "Big Enough",
+        "song_artist": "Kirin J Callinan Ft. Alex Cameron, Molly Lewis, Jimmy Barnes",
+        "creator": "Gloomhonk",
+        "stars": "8",
+        "bpm": "125",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035596360394739803/BigEnough.zip"
+    },
+    {
+        "song_name": "Tsukamaete, tonight! (From The Culprit Hanzawa)",
+        "song_artist": "新浜レオン【Leon NIIHAMA】",
+        "creator": "SilverFoxV933",
+        "stars": "8",
+        "bpm": "138",
+        "dl": "https://drive.google.com/file/d/1QEw0BGP5zsc5kP5joRp7vQ9dWXl1sE-r/view?usp=sharing"
     }
         
 ]
