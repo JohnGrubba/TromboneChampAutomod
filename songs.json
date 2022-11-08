@@ -3136,6 +3136,31 @@
         "stars": "8",
         "bpm": "138",
         "dl": "https://drive.google.com/file/d/1QEw0BGP5zsc5kP5joRp7vQ9dWXl1sE-r/view?usp=sharing"
+    },
+    {
+        "song_name": "Kyouki Ranbu",
+        "song_artist": "Leaf",
+        "creator": "LeFriki",
+        "stars": "10",
+        "bpm": "230",
+        "dl": "https://drive.google.com/file/d/1jpE50jtLfOt__RNHPPRcK6SVzmJZpfXH/view?usp=share_link"
+    },
+    {
+        "song_name": "Frontrunner",
+        "song_artist": "Luminyx",
+        "creator": "WillemDePillem",
+        "stars": "8",
+        "bpm": "184",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035627514887929948/Frontrunner.rar"
+    },
+    {
+        "song_name": "Industry Baby",
+        "song_artist": "Lil Nas X / Jack Harlow",
+        "creator": "Zeka",
+        "stars": "7",
+        "bpm": "150",
+        "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035628089092354118/IndustryBaby.zip"
     }
+        
         
 ]
