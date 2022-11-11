@@ -3225,5 +3225,12 @@
         "bpm": "160",
         "dl": "https://cdn.discordapp.com/attachments/1024214552151347231/1035714929229053972/pizzatron.zip"
     }
-        
+    {
+        "song_name": "Barbie Girl",
+        "song_artist": "Aqua",
+        "creator": "Hurdle",
+        "stars": "6",
+        "bpm": "130",
+        "dl": "https://cdn.discordapp.com/attachments/1040728340530729091/1040728416913203261/Barbie_Girl.zip"
+    }
 ]
